@@ -201,7 +201,6 @@ pulmonary ascariasis
 decrcased vital capacity
 pulmonary echinococcosis
 secondary malignant neoplasm of lung
-meta-static tumor
 parasitic disease of lung
 pulmonary pscudolymphoma
 pulmonary interstitial fibrosis (post-inflamma-tion)
@@ -875,7 +874,7 @@ postoperative chest wall softening
 fibrosarcoma of chest wall
 thoracie malignant tumor
 thoracic lymphangiomatosis
-胸部损伤 thoracic trauma
+thoracic trauma
 thoracic duct obstruction
 thoracic duct injury
 sternum benign tumor
@@ -892,7 +891,7 @@ pleural disease
 pleural echinococcosis
 mesothelioma of pleura
 pleura borderline tumor
-胸膜结核瘤 pleural tuberculoma
+pleural tuberculoma
 benign tumor of pleural
 pleural effusion
 pleural fibrous hyperplasia
@@ -1558,7 +1557,7 @@ sequential invasive non-invasive mechanical ventilation
 mouth occlusion pressure at 0. Is after onset of inspi- ratory effort
 foreed expiratory volume in half second
 tidal expiratory flow at 25% of tidal volume
-潮气容积呼气流量与潮气呼气峰流量比值 ratio of tidal expi- ratory flow at 25% of tidal volume to PTEF
+ratio of tidal expi- ratory flow at 25% of tidal volume to PTEF
 forced expiratory volume in two seconds
 forced expiratory volume in three seconds
 tidal expiratory flow at 50% of tidal volume
@@ -1641,11 +1640,11 @@ volume of lower inflection point
 lower flat part
 hypoxia challenge test
 hypoxic ventilatory response
-20% 激发剂量 provocative dose of bronchoconstrictor trigger which causes a fall of 20% in FEV,
-20% 激发浓度 provocative concentration of bronchosonstrictor trigger needed to cause a 20% fall in FEV,
+provocative dose of bronchoconstrictor trigger which causes a fall of 20% in FEV,
+provocative concentration of bronchosonstrictor trigger needed to cause a 20% fall in FEV,
 forced expiratory volume in one second
 electronic bronchoscope
--混合静脉血氧含量差 arterio-mixed venous oxygen content difference
+arterio-mixed venous oxygen content difference
 arterio-venous oxygen content difference
 partial pressure of carbon dioxide in arterial blood
 arterial blood gas
@@ -1850,9 +1849,9 @@ low-volume waveform
 oxygen consumption per kg body weight
 diffusion capacity for carbon mon- oxide per liter of alveolar volume
 diffusion coefficient
-- 单次呼吸法 airtight nitrogen dilution-single breath method
+airtight nitrogen dilution-single breath method
 airtight nitrogen dilution
-重复呼吸法 airtight nitrogen dilution-rebreathing method
+airtight nitrogen dilution-rebreathing method
 airtight helium dilution method
 airtight helium dilution-rebreathing method
 airtight helium dilution-single breath method
@@ -1994,7 +1993,7 @@ blood gas
 blood gas analysis
 blood volume
 blood oxygen saturation
-50% 时的氧分压 partial pressure of oxygen at 50% hemoglobin saturation
+partial pressure of oxygen at 50% hemoglobin saturation
 blood oxygen content
 blood oxygen capacity
 pressure waveform
@@ -2018,10 +2017,10 @@ cryptococcal antigen latex agglutination test
 fluorescence bronchoscopy
 rigid bronchoscope
 forced vital capacity
-25% 肺活量的呼气流量 forced expiratory flow at 25% of FVC exhaled
-50% 肺活量的呼气流量 foreed expiratory flow at 50% of FVC exhaled
-50% 肺活量的呼气流量与吸气流量比值 forced expiratory flow to forced inspiratory flow at 50 percent vital capacity
-75% 肺活量的呼气流量 forced expiratory flow at 75% of FVC exhaled
+forced expiratory flow at 25% of FVC exhaled
+foreed expiratory flow at 50% of FVC exhaled
+forced expiratory flow to forced inspiratory flow at 50 percent vital capacity
+forced expiratory flow at 75% of FVC exhaled
 forced inspiratory vital capacity
 effort-dependent part
 effective compliance
@@ -2062,7 +2061,7 @@ maximal flow-volume curve
 maximal oxygen consumption per kg body weight
 maximum plateau pressure
 peak inspiratory flow
-- 容积曲线 maximal inspiratory flow-volume curve
+maximal inspiratory flow-volume curve
 calculated value of maximal voluntary ventilation
 maximal inspiratory pressure
 maximal heart rate reserve

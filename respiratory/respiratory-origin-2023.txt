@@ -1,0 +1,2355 @@
+Ⅰ型呼吸衰竭 type Ⅰ respiratory failure
+Ⅱ型呼吸衰竭 type Ⅱ respiratory failure
+TNM分期 tumor node metastasis elassification,TNM
+a-抗胰蛋白酶缺乏症 α-antitrypsin deficieney
+阿米巴肺脓肿 amebic abscess of lung
+阿司匹林哮喘 aspirin-induced asthma
+艾滋病合并肺结核 AIDS complicated with tuberculosis
+氨茶碱药物反应 aminophylline drug reaction
+巴德-基亚里综合征 Budd-Chiari syndrome
+布-加综合征 Budd-Chiari syndrome
+瘢痕旁肺气肿 paracicatricial emphysema
+瘢痕性肺气肿 paracicatricial emphysema
+包裹性胸腔积液 encapsulated pleural effusion
+胞内分枝杆菌感染 Mycobacterium intracellular infection
+鲍曼不动杆菌肺炎 Acinetobacter baumanii pneumonia
+被动吸烟 passive smoking
+泵衰竭 pump failure
+鼻炎 rhinitis
+闭合伤 closed injury
+闭合性气胸 closed pneumothorax
+闭塞性细支气管炎 bronchiolitis obliterans
+闭塞性细支气管炎综合征 obliterative bronchiolitis syndrome
+变态反应性气道炎症 allergic airway inflammation
+变应性鼻炎 allergic rhinitis
+过敏性鼻炎 allergic rhinitis
+变应性咳嗽 allergic cough,atopic cough
+变应性支气管肺曲霉病 allergie bronchopulmonary aspergillosis
+变应性支气管肺曲霉病 ABPA
+变态反应性支气管肺曲霉菌病 allergie bronchopulmonary aspergillosis
+过敏性支气管肺曲霉病 allergie bronchopulmonary aspergillosis
+病毒性肺炎 viral pneumonia
+病理性分流 pathological shunt
+不动杆菌肺炎 acinetobacter pneumonia
+不动杆菌性肺炎 acinetobacter pneumonia
+不宁腿综合征 restless leg syndrome
+不完全可逆性气流受限 incomplete reversible airflow limitation 
+肠源性感染 enterogenic infection
+肠源性囊肿 enterogenous cyst
+陈旧性肺结核 obsolete pulmonary tuberculosis
+陈旧性胸膜结核 obsolete pleural tuberculosis
+陈旧性支气管淋巴结核 obsolete bronchial lymphoid tubereulosis
+成人肺透明膜病 adult hyaline membrane disease
+迟发相哮喘反应 late asthmatie reaction
+冲击伤综合征 blast injury syndrome
+重叠综合征 overlap syndrome
+出口部位感染 exit-site infection
+穿入伤 penetrating wound
+喘息性支气管肺炎 asthmatic bronchopneumonia
+创伤性膈疝 traumatic diaphragmatic hernia
+创伤性肺水肿 traumatic pulmonary edema
+创伤性空气栓塞 traumatic acroembolism
+创伤性气胸 traumatic pneumothorax
+创伤性湿肺 traumatic wet lungu
+
+
+创伤性胸腔积液 traumatic pleural effusion
+创伤性血胸 open hemothorax
+开放性血胸 open hemothorax
+创伤性脂肪栓塞 traumatic fat embolism
+创伤性窒息 traumatic asphyxia
+次大面积肺栓塞 submassive pulmonary embolism
+脆性哮喘 brittle asthma
+大麻尘肺 cannabinosis
+大面积肺栓塞 massive pulmonary embolism
+大泡性肺气肿 bullous emphysema
+大气道狭窄 obstruction of large airway
+大气道陷闭 collapse of large airway
+大气性缺氧 atmospheric hypoxia
+大细胞癌 large cell carcinoma
+大叶性肺炎 lobar pneumonia
+代偿性肺过度充气 compensating pulmonary hyperinflation
+代偿性肺气肿 compensatory emphysema
+代偿性呼吸性酸中毒 compensatory respiratory acidosis
+代偿性碱中毒 compensatory alkalosis
+代偿性抗炎症反应综合征 compensatory anti-inflammatory response syndrome
+代偿性酸中毒 compensatory acidosis
+代谢性碱中毒 metabolic alkalosis
+代谢性酸中毒 metabolic acidosis
+代谢性酸中毒合并呼吸性碱中毒 respiratory alkalosis and metabolic acidosis
+袋感染 pocket infection
+单侧肺气肿 unilateral emphysema
+单侧膈肌麻痹 unilateral paralysis of diaphragm
+单侧透明肺综合征 unilateral hyperlucent lung syndrome
+单纯肺炎旁胸腔积液 uncomplicated parapneumonic pleural effusion
+单纯鼾症 primary snoring
+单纯疱疹病毒肺炎 herpes simplex virus pneumonia
+胆固醇性肺炎 cholesterol pneumonia
+胆固醇性胸膜炎 cholesterol pleurisy
+胆汁性胸膜炎 bile pleuritis
+蛋白质能量营养不良 protcin malnutrition
+导管定植 catheter colonization
+导管相关性静脉血栓 catheter-related venous thrombosis
+导管相关性血流感染 catheter-related bloodstream infection,CRBSI
+等容量性低钠血症 isovolemic hyponatremia
+等滲性脱水 isotonic dehydration
+低白蛋白血症 hypoalbumincmia
+低蛋白血症 hypoproteinemia
+低钙血症 hypocalcemia
+低钾性碱中毒 hypokalemic alkalosis
+
+
+
+
+
+
+
+低钾血症 hypopotassemia
+低磷血症 hypophosphatemia
+低氯性碱中毒 hypochloremic alkalosis
+低氯血症hypochloraemia
+低钠低氯血症 hyponatremia and hypochloremia
+低钠血症 hyponatremia
+低频疲劳 low-frequency fatigue
+低容量性低钠血症 hypovolemic hyponatremia
+低容量性高钠血症 hypovolemic hypernatremia
+低渗性脱水 hypotonic dehydration
+低碳酸血症 hypocapnia
+低血容量性休克 hypovolemic shock
+失血性休克
+低压性缺氧 hypobaric hypoxia
+低氧脱习服 hypoxic deacclimatization
+低氧血症 hypoxemia
+低氧血症相关性肺动脉高压 pulmonary hypertension associated with hypoxia
+低氧相关性肺动脉高压
+低氧血症型呼吸衰竭 hypoxemic respiratory failure
+低张性缺氧 hypotonic hypoxia
+淀粉样变性 amyloidosis 
+淀粉样变
+动脉型肺动脉高压 pulmonary arterial hypertension
+动态肺过度充气 dynamic pulmonary hypcrinflation
+对侧纵隔淋巴结转移 contralateral mediastinal lymph node metastasis 
+钝性伤 blunt trauma
+多重耐药鲍曼不动杆菌肺炎 multidrug-resistant Acinetobacter bau-manii pneumonia
+多重耐药菌感染 multiple drug resistance (MDR) bacterial infection
+多发性肌炎相关的间质性肺病 interstitial lung disease in polymyositis 
+多发性胸膜结节 multiple pleural nodules
+多肌炎伴肺间质纤维化 polymyositis with interstitial pulmonary fibrosis 
+多器官功能障碍综合征 multiple organ dysfunction syndrome
+多因素分级系统 multi-factor grading system
+恶性胸膜结节 malignant pleural nodules
+恶性胸腔积液 malignant pleural effusion, MPE
+儿童期哮喘 childhood asthma
+猝倒发作性睡病但伴无下丘
+脑分泌素缺乏
+发作性睡病 narcolepsy
+反常性碱性尿 paradoxical alkaline urine
+反常性酸性尿 paradoxical acidic urine
+反应性气道功能障碍综合征 reactive airway dysfunction syndrome
+放射性肺纤维化 radiative pulmonary fibrosis
+肺纤维化
+放射性肺炎 radiation pncumonia
+非变应性哮喘 nonallcrgic asthma
+非过敏性哮喘
+非典型病原体肺炎 atypical pneumonia
+非肺炎的军团病 nonpneumonic legionnaires disease
+非结核分枝杆菌肺病 nontuberculous mycobacterium pulmonary disease 
+非丝虫性乳糜胸 non filarial chylothorax
+非特异性间质性肺炎 nonspecific interstitial pneumonia,NSIP
+非小细胞肺癌 non-small cell lung canccr,NSCLC
+非心源性肺水肿 non cardiogenic pulmonary cdema
+非血栓性肺栓塞 nonthrombotic pulmonary embolism
+肥胖低通气综合征 obesity hypoventilation syndrome
+匹克威克综合征 Pickwichian syndrome
+肺癌介入化疗 interventional chemotherapy of lung cancer
+肺癌介入治疗 interventional treatment of lung cancer
+孢子菌肺炎
+肺瘢痕癌 scar carcinoma of lung
+肺孢子菌肺炎 pneumocystis pncumonia,PCP
+肺病 lung disease
+肺不张 atelectasis
+肺部多重耐药菌感染 pulmonary infection of multiple dnig-resistant bacterial
+肺部感染 pulmonary infection
+肺部感染伴肺不张 pulmonary infcction with atclectasis
+肺部感染伴咯血 pulmonary infection with hemoptysis
+
+
+肺部感染伴胸腔积液 pulmonary infection with pleural effusion
+肺部感染并胸腔积液
+肺部感染合并呼吸衰竭 lung infection and respiratory failure
+肺部感染并呼吸衰竭
+肺部结节病 pulmonary sarcoidosis
+肺部空洞 lung cavity
+肺部流感嗜血杆菌感染 haemophilus influenzae infection in the lung
+肺部肉芽肿性病变 granulomatous lesion of the lung
+肺部炎性假瘤 pulmonary inflammatory pseudotumor
+肺部阴影 pulmonary shadow
+肺部真菌病 pulmonary mycosis
+肺尘埃沉着症 pncumoconiosis
+尘肺
+肺出血 pulmonary haemorrhage
+肺出血肾炎综合征 Goodpasture syndrome
+古德帕斯丘综合征
+肺出血型钩端螺旋体病 hemorrhagic pulmonary leptospirosis
+肺挫伤 pulmonary contusion
+肺损伤
+肺错构瘤 pulmonary hamartoma
+先天性肺错构瘤 congenital pulmonary hamartoma
+肺大疱 bullae
+肺大疱破裂 bullae rupture
+肺淀粉样变 pulmonary amyloidosis
+淀粉样变肺损害A
+肺动静脉瘘 pulmonary artcriovcnous fistula
+肺动静脉畸形4
+肺动静脉分流
+肺动脉闭塞 lung artery occlusion
+肺动脉不发育 agenesis of pulmonary artery
+肺动脉发育不全 hypoplasia of pulmonary artery
+肺动脉高压 pulmonary hypertension
+肺高血压
+肺动脉瘤 pulmonary artery aneurysm
+肺恶性肿瘤 malignant tumor of lung
+肺发育不良 pulmonary hypoplasia
+先天性肺发育异常
+肺发育未成熟 pulmonary dysmaturity 
+肺发育不全和发育异常
+肺放线菌病 pulmonary actinomycosis
+肺副球孢子菌病 pulmonary paracoccidioidomycosis
+肺隔离症 pulmonary sequestration 
+先天性肺隔离症
+肺梗死 pulmonary infarction
+肺弓形虫病 pulmonary toxoplasmosis
+弓形虫肺炎
+肺功能不全 pulmonary incompetence
+肺钩虫病 ancylostomiasis of lung
+肺孤立性纤维瘤 solitary fibrous tumor of the lung
+肺过度充气 pulmonary hyperinflation
+肺过度通气
+肺含铁血黄素沉着症 pulmonary hemosidcrosis
+肺厚壁空洞 thick wall cavity of lung
+肺化学感受器瘤 pulmonary chemodectoma
+肺坏死 necrosis of lung
+肺滑膜肉瘤 pulmonary synovial sarcoma
+肺换气量减少 decreased pulmonary ventilation capacity
+肺蛔虫病 pulmonary ascariasis
+肺活量减少 decrcased vital capacity
+肺棘球蚴病 pulmonary echinococcosis
+肺包虫病
+肺继发恶性肿瘤 secondary malignant neoplasm of lung
+肺寄生虫病 parasitic disease of lung
+肺假性淋巴瘤 pulmonary pscudolymphoma
+肺间质纤维化(炎症后) pulmonary interstitial fibrosis (post-inflamma-tion)
+继发性肺间质纤维化
+肺间质纤维化并感染 pulmonary fibrosis and infection
+肺间肺间质疾病 interstitial lung disease
+质纤维化伴感染
+肺间质纤维化合并肺气肿综合征 combined pulmonary fibrosis andcmphyscma
+肺间质纤维化合并感染 pulmonary fibrosis with infection
+
+# p84
+
+肺剪切应力伤 shear stress induced lung injury
+肺交界性肿瘤 borderline tumor of lung
+肺结核 pulmonary tuberculosis
+继发性肺结核
+肺结核伴胸腔积液 tuberculosis with pleural effusion
+肺结核并咯血 tuberculosis and hemoptysis
+肺结核病 pulmonary tuberculosis
+肺І核初Н涂阳 new smear positivc pulmonary tuberculosis
+肺结核复燃 pulmonary tuberculosis recurrence
+肺结核活动期 active pulmonary tuberculosis
+肺结核球 pulmonary tuberculoma 
+肺结核瘤
+肺静脉闭塞 pulmonary vein occlusion
+肺静脉闭塞症
+肺扩张力损伤 over-distention induced lung injury
+肺朗格斯组织细胞增生症 pulmonary Langerhans cell histiocytosis
+肺朗格汉斯组织细胞增多症
+肺类癌 pulmonary carcinoid
+肺良性肿瘤 benign tumor of lung
+肺裂伤 laceration of lung
+肺淋巴管平滑肌瘤病 pulmonary lymphangioleiomyomatosis,PLAM 
+肺淋巴瘤样肉芽肿病 pulmonary lymphomatoid granulomatosis
+肺毛霉菌病 pulmonary mucormycosis
+肺毛霉病
+肺毛细血管瘤 pulmonary capillary hemangiomatosis
+肺毛细血管瘤病
+肺梅毒 syphilitic lung
+梅毒肺
+肺门恶性肿瘤 malignant tumor in pulmonary hilum
+肺门淋巴结钙化 calcification of hilar lymph node
+肺门淋巴结继发恶性肿瘤 secondary malignant tumor of hilar lymph sis (confirmed by bacteriology and histology) 
+
+肺门淋巴结结核 hilar lymphonode tuberculosis
+肺门淋巴结炎 hilar lymphadenitis
+肺门淋巴结肿大 hilar lymph node enlargement
+肺门增大 pulmonary hilar enlargement
+肺弥散功能降低 decrcascd diffusion function
+肺囊虫病 pulmonary cysticcrcosis
+肺囊性病变 cystic lung disease
+肺囊性疾病 cystic lung diseases
+肺囊性纤维化 pulmonary cystic fibrosis
+囊性肺纤维化
+肺囊肿 lung cyst
+肺内静动脉血分流
+肺囊肿并感染 pulmonary cyst with infection
+肺内淋巴结转移 pulmonary lymph nodes metastasis
+肺内磨玻璃结节 pulmonary ground glass nodules
+肺内异物 forcign body in lung
+肺黏膜相关淋巴组织结外边缘区淋巴瘤 extranodal marginal zone cell lymphoma of lung mucosa-associated lymphoid tissue
+肺黏液瘤 myxoma of lung
+肺念珠菌病 pulmonary candidiasis
+肺脓肿 lung absccss
+肺诺卡菌病 pulmonary nocardiosis 
+肺奴卡菌病
+肺泡出血综合征 alveolar haemorrhage syndrome,AHS 
+肺泡出血
+肺泡微结石症 pulmonary alveolar microlithiasis 
+肺泡微石症
+肺泡蛋白沉积症 alveolar proteinosis
+肺泡低通气综合征 alveolar hypoventilation syndrome
+肺膨出 pneumatocelc
+
+
+肺铍沉积症 pulmonary berylliosis
+铍病
+肺气压伤 pulmonary barotrauma
+肺气肿 cmphysema
+肺气肿伴肺大疱形成 emphysema with bullae
+肺球形阴影 coin lesion of lung
+肺曲霉病 pulmonary aspergillosis
+肺曲霉菌病
+肺曲霉球 aspergilloma
+肺曲菌球
+肺缺如 pulmonary agencsis
+肺容积伤 lung volutrauma
+肺肉瘤 Lung sarcoma
+肺上沟瘤 pancoast tumor
+肺上皮样血管内皮瘤 pulmonary epithelioid hemangioendothelioma 
+肺上皮样血管内皮细胞瘤 pulmonary epithelioid hemangioendothe- lioma, PEH
+肺生物伤 pulmonary biotrauma
+肺实变 consolidation of lung
+肺嗜酸性粒细胞浸润症 pulmonary cosinophilia
+肺嗜酸性粒细胞增多症
+肺衰竭 lung failure
+肺栓塞 pulmonary embolism
+肺水肿 pulmonary cdcma
+肺栓塞溶栓后 post-antithrombotic pulmonary embolism 
+肺铁末沉着病 pulmonary siderosis
+铁及其化合物粉尘肺沉着病
+肺通气功能障碍 pulmonary ventilation dysfunction
+肺通气功能正常 normal pulmonary ventilation function
+肺菱陷伤 lung atelectrauma
+肺吸虫病 paragonimiasis 
+肺并殖吸虫病
+肺下积液 infrapulmonary cffusion
+肺纤维瘤 fibroma of lung
+肺小血管炎 lung small vasculitis
+肺型孢子丝菌病 pulmonary sporotrichosis
+肺型土拉菌病 pulmonary tularaemia
+上拉菌病肺炎
+肺型血吸虫病 pulmonary schistosomiasis
+肺性脑病 pulmonary encephalopathy
+肺血管炎 pulmonary vasculitis
+肺血栓栓塞症 pulmonary thrombocmbolism
+肺血肿 hematoma of lung
+肺芽生菌病 pulmonary blastomycosis
+肺炎 pneumonia
+肺炎并感染性休克 pneumonia and septic shock
+肺炎克雷伯杆菌性肺炎
+肺炎克雷伯菌肺炎 Klebsiclla pncumoniac pncumonia
+肺炎链球菌肺炎 Streptococcal pneumoniac pneumonia
+肺炎旁胸腔积液 parapneumonic pleural effusion
+肺炎性假瘤 pulmonary inflammatory pseudotumor
+炎症后肺间质纤维化A
+肺炎衣原体肺炎 chlamydia pneumoniae pneumonia 
+衣原体肺炎
+肺炎支原体肺炎 mycoplasma pncumoniac pncumonia
+肺移植排斥 lung transplantation rejection
+肺移植失败 lung transplantation failure
+肺隐球菌病 pulmonary cryptococcosis
+肺硬化 pulmonary sclerosis
+肺原发性结核性综合征 primary complex of tuberculosis
+肺结核原发综合征
+肺原发性淋巴瘤 pulmonary lymphoma 
+原发性肺淋巴瘤
+肺源性心脏病 cor pulmonale 
+肺心病
+肺源性心脏病失代偿期 dysfunction of cor pulmonale
+肺心病失代偿期
+肺真菌病 pulmonary mycosis
+肺诊断性影像异常 abnormal pulmonary diagnostic imaging
+肺中叶综合征 middlc lobc syndrome
+肺转移性恶性黑色素瘤 pulmonary metastatic malignancy melanomatosis
+
+
+# P85
+肺转移性肿瘤 metastatic tumor of lung
+肺组织胞浆菌病 pulmonary histoplasmosis
+肺组织活检术 lung biopsy
+风疹性肺炎 rubella pneumonia
+风疹并发肺
+复杂肺炎旁胸腔积液 complicated parapneumonic effusion
+复张性肺水肿 reexpansion pulmonary edema
+复发性多软骨炎 relapsing polychondritis,RP
+副百日咳杆菌百日咳 bacillus parapertussis whooping cough
+副百日咳博德特杆菌性百日咳
+副流感病毒性肺炎 parainfluenza virus pneumonia
+副流感病毒肺炎
+副流感病毒性急性支气管炎 parainfluenza virus acute bronchitis
+副流感病毒急性支气管炎
+副肿瘤综合征 paraneoplastic syndrome
+干酪性鼻炎 rhinitis caseosa.caseous rhinitis
+干酪样肺炎 caseous pneumonia, cascous tuberculosis
+干燥性鼻炎 rhinitis sicca
+干燥综合征性肺病变 pulmonary disease associated with primarySjögren syndrome
+干燥综合征伴肺间质纤维化
+干燥综合征伴有肺部受累
+肝胆支气管瘘 hepatic and biliary branchial fistula
+肝肺综合征 hepatopulmonary syndrome
+肝胸膜瘘 hepatopleural fistula
+感冒后咳嗽 postinfectious cough
+感染后闭塞性细支气管炎 post-infection obliterative bronchiolitis
+感染后咳嗽 post-infection cough
+高AG型代谢性酸中毒 high anion gap (AG) metabolic acidosis
+高肺容积呼吸衰竭 respiratory failure with high lung volume
+高钙血症hypercaleemia
+高海拔适应 high altitude adaptation
+高钾性酸中毒 hyperkalemic acidosis
+高钾血症 hyperpotassemia
+高磷血症 hyperphosphatemia
+高氯性酸中毒 hyperchloremie acidosis
+高氯血症 hyperchloremia 
+高血氯症
+高镁血症 hypermagnesemia
+高钠血症hypernatremia
+高频疲劳 high frequency fatigue
+高容量性低钠血症 hypervolemie hyponatremia
+高容量性高钠血症 hypervolemic hypernatremia
+高乳酸血症 hyperlactacidemia
+高渗性昏迷 hyperosmotic coma
+高渗性脱水 hyperosmotic anhydration
+高碳酸血症 hypercapnia
+高碳酸血症后碱中毒 posthypercapnic alkalosis
+高碳酸血症型呼吸衰竭 hypercapnic respiratory failure
+高铁血红蛋白血症 methemoglobinemia
+高通气综合征 hyperventilation syndrome
+高压神经综合征 high pressure nervous syndrome,HPNS
+高原肺水肿 high-altitude pulmonary edema,HAPE
+高原性缺氧 plateau hypoxia
+腸肌麻痹 diaphragmatic paralysis
+膈肌肿瘤 tumor of diaphragm
+膈继发恶性肿瘤 secondary malignant tumor of diaphragm
+膈膨升 eventration of diaphragm 
+膈肌膨出
+膈膨升症
+膈缺如 absence of diaphragm
+膈疝 diaphragmatic hernia
+膈上淋巴结继发恶性肿瘤 secondary malignant tumor of superior phrenic lymph node
+膈下感染 subphrenic infection
+膈下肿物 subphrenic tumor
+功能性分流 functional shunt
+孤立性气管结核 isolated tracheal tuberculosis
+
+孤立性气管支气管结核 isolated tracheal and bronchial tuberculosis 
+骨化性气管支气管骨病 tracheobron-cheopathia ostcochondroplastica,To 
+固定性大气道狭窄 fixed obstruction of large airway
+广泛肺静脉或毛细血管受累疾病相关性肺动脉高压 pulmonary arterial hypertension associated with pulmonary venous or capillary involvement
+硅沉着病 silicosis
+硅肺病
+过敏性哮喘 allergic asthma
+过敏性休克 anaphylactic shock
+咳嗽变异型哮喘 cough variant asthma
+咳嗽变异性哮喘
+咳嗽激发试验 cough provocative test
+咳嗽-晕厥综合征 cough-syncope syndrome
+红杉锯屑病 sequoiosis
+喉和气管及肺烧伤 burn involving larynx and trachea with lung
+喉炎 laryngitis
+后天性支气管憩室 acquired bronchial diverticulum
+支气管憩室
+呼气气流受限 expiratory flow limitation
+呼气相间歇性分流 expiratory phase intermittent shunt
+呼吸道梗阻 respiratory tract obstruction
+呼吸道合胞病毒肺炎 respiratory syncytial virus pneumonia
+呼吸道内异物 foreign body in respiratory tract
+呼吸道烧伤 respiratory tract burn
+呼吸机辅助通气治疗 ventilator assistant ventilation therapy
+呼吸机相关性肺炎 ventilator-associated pneumonia
+呼吸机依赖 ventilator dependency
+呼吸肌疲劳 respiratory muscle fatigue
+呼吸肌麻痹 respiratory muscle paralysis
+呼吸肌无力 respiratory muscle weakness
+呼吸衰竭 respiratory failure
+呼吸系统躯体化的自主神经功能障碍 somatizational autonomic ner- vous dysfunction of respiratory system
+呼吸性合并代谢性酸碱失衡 respiratory and metabolic acid-base dis- order
+呼吸性碱中毒 respiratory alkalosis
+呼吸性碱中毒合并代谢性碱中毒 respiratory alkalosis associated with metabolic alkalosis 
+代谢性碱中毒伴呼吸性碱中毒
+呼吸性碱中毒合并代谢性酸中毒 respiratory alkalosis associated with metabolic acidosis
+呼吸性缺氧 respiratory hypoxia
+呼吸性酸中毒 respiratory acidosis
+呼吸性酸中毒合并代谢性碱中毒 respiratory acidosis associated with metabolic alkalosis
+呼吸性酸中毒伴代谢性碱中毒4
+呼吸性酸中毒合并代谢性酸中毒 respiratory acidosis associated with metabolic acidosis
+代谢性酸中毒伴呼吸性酸中毒
+呼吸训练 respiratory exercise
+呼吸暂停 apnea
+呼吸骤停 respiratory arrest
+护理院获得性肺炎 nursing home-acquired pneumonia
+滑石粉尘肺 pneumoconiosis due to tale dust
+滑石粉引起的尘肺
+化脓性胸膜炎 purulent pleurisy
+化学性肺水肿 chemical pulmonary edema
+化学性肺炎 Chemical pneumonitis
+化学性胸浆膜炎 chemical pleural serositis
+坏疽性肺炎 gangrenous pneumonia
+肺坏疽
+坏死性结节病样肉芽肿病 necrotizing sarcoid granulomatosis，NSG 
+坏死性肉芽肿性血管炎 necrotizing granulomatous vasculitis,NGV
+
+# p86
+换气功能障碍 gas exchange defeet
+换气过度 hyperventilation
+混合型睡眠呼吸暂停低通气综合征 mixed sleep apnca hypopnea syndrome
+混合性睡眠呼吸暂停 mixed sleep apnea
+混合性通气功能障碍 mixed ventilatory disorder
+霍纳综合征 Horner syndrome
+Horner综合征
+机化性肺炎 organized pneumonia
+机械通气相关性电解质紊乱 ventilation-associated electrolyte distur- bance
+机械通气相关性肺水肿 ventilation-associated pulmonary edema
+机械通气相关性肺损伤 ventilation-associated lung injury
+机械通气相关性膈肌功能障碍 ventilation-associated diaphragmatic dysfunction
+机械通气相关性酸碱失衡 ventilation-associated acid-base disorder 
+积液 effusion
+急性鼻窦炎 acute rhinosinusitis
+急性鼻咽炎 acute nasopharyngitis
+急性扁桃体炎 acute tonsillitis
+急性次大面积肺栓塞 acute submassive pulmonary embolism
+急性大面积肺栓塞 acute massive pulmonary embolism
+急性低风险性肺栓塞 acute pulmonary embolism with low risk
+急性低容量性低钠血症 acute hypovolemie hyponatremia
+急性低容量性高钠血症 acute hypovolemic hypernatremia
+急性低氧通气反应 acute hypoxic ventilatory responsc
+急性肺芽生菌病 acute pulmonary blastomycosis
+急性肺源性心脏病 acute cor pulmonale
+急性肺组织胞浆菌病 acute pulmonary histoplasmosis 
+急性呼吸窘迫综合征
+休克肺
+急性高钾血症 acute hyperkalemia
+急性高容量性低钠血症 acute hypervolemic hyponatremia
+急性高容量性高钠血症 acute hypervolemic hypernatremia
+急性高原病 acute high altitude sickness
+急性高山病
+急性高原反应 acute high altitude reaction
+急性梗阻性喉炎 acute obstructive laryngitis
+急性过敏性肺炎 acute hypersensitivity pneumonitis
+急性咳嗽 acute cough
+急性喉气管炎 acute laryngotracheitis
+急性喉炎 acute laryngitis
+急性呼吸道感染 acute respiratory tract infection
+急性呼吸衰竭 acute respiratory failure
+急性呼吸性碱中毒 acute respiratory alkalosis
+急性呼吸性酸中毒 acute respiratory acidosis
+急性化学性支气管炎 acute chemical bronchitis
+化学性支气管炎
+急性会厌炎 acute epiglottitis
+急性间质性肺炎 acute interstitial pneumonia
+急性脓胸 acute pyothorax
+急性气管炎 acute tracheitis
+急性气管-支气管炎 acute broncho-bronchitis
+急性气管支气管炎
+急性缺钾性低钾血症 acute potassium-deficit hypokalemia
+急性上呼吸道感染 acute upper respiratory infection
+急性嗜酸性粒细胞性肺炎 acute eosinophilic pneumonia 
+特发性急性嗜酸性粒细胞性肺炎
+急性细支气管炎 acute bronchiolitis
+急性血行播散型肺结核 acute hematogenous disseminated pulmonary tuberculosis
+急性咽喉炎 acute pharyngolaryngitis
+急性咽炎 acute pharyngitis
+急性药物性肺病 acute drug-induced pulmonary disease
+急性一氧化碳中毒 acute carbon monoxide poisoning
+急性支气管炎 acute bronchitis
+急性转移性高钾血症 acute shifted hyperkalemia
+急性纵隔炎 acute mediastinitis
+继发型肺结核 secondary pulmonary tuberculosis
+继发性肺结核病 sccondary pulmonary tuberculosis
+继发性肺脓肿 secondary pulmonary abscess 
+肺脓肿不伴有肺炎
+继发性失眠 secondary insomnia
+加湿器肺 humidifier lung
+家族性肺动脉高压 familial pulmonary hypertension
+家族性动脉性肺动脉高压
+甲型流感病毒性肺炎 influenza A virus pncumonia
+甲流
+甲型流感肺炎
+假性低钠血症 pseudohyponatremia
+间质性肺疾病急性加重 acute exacerbation of interstitial lung diseases 
+间质性肺气肿 interstitial emphysema
+间质性肺炎 interstitial pncumonia
+减压病 decompression sickness
+碱血症 alkalemia
+碱中毒 alkalosis
+间歇性分流 intermittent shunt
+浆液纤维蛋白性胸膜炎 serofibrinous pleurisy
+急性渗出性胸膜炎
+交通性气胸 unclosed pneumothorax,open pneumothorax
+结缔组织病相关肺高压 connective tissue disease associated pulmo- nary hypertension
+结缔组织病相关间质性肺疾病 connective tissue disease associated interstitial lung disease,CTD-ILD
+结缔组织病性弥漫性实质性肺疾病 diffuse parenchymal lung disease association with connective tissue disease 
+结缔组织病所致间质性肺病
+结缔组织病胸膜炎 pleuritis due to connective tissue disease
+结核后支气管扩张 post-tuberculosis bronchiectasis
+结核结节 tubercle 
+结核性肉芽肿
+结核菌素试验异常 abnormal reaction to tuberculin test
+结核性包裹性脓胸 tuberculous encapsulated empyema
+结核性大咯血 tuberculous massive hemoptysis
+结核性肺纤维变性 tuberculous fibrosis of lung
+增殖性结核性肺纤维变性
+结核性肺炎 tuberculous pneumonia 
+干酪性肺炎
+结核性气胸 tuberculous pneumothorax
+结核性乳糜胸 tuberculous chylothorax
+结核性损毁肺 tuberculous destroyed lung 
+毁损肺
+结核性胸膜炎 tuberculous pleuritis
+结核性支气管扩张 tuberculous bronchiectasis
+结核性支气管淋巴瘘 tuberculous bronchial-lymph fistula
+结核性支气管狭窄 tuberculous bronchostenosis
+结节病 sarcoidosis
+解剖分流 anatomic shunt
+浸润性肺结核 invasive pulmonary tuberculosis
+静动脉血分流 vein-artery shunt
+静脉血栓栓塞症 venous thromboembolism,VTE
+静脉炎 phlebitis
+静态肺过度充气 static pulmonary hyperinflation
+局限性脓胸 localized empyema
+局限性胸膜间皮瘤 localized pleural mesothelioma
+巨大淋巴结增生症 angiofollicular lymph node hyperplasia,Castleman disease 
+卡斯尔曼病
+巨大型肺动静脉畸形 macro-pulmonary arterio-venous malformation, giant pulmonary arteriovenous malformation
+巨气管支气管症 tracheobronchomegaly,TBM
+巨细胞病毒肺炎 cytomegalovirus pneumonitis
+巨细胞间质性肺炎 giant cell interstitial pneumonia, GIP
+具有自身免疫特征的间质性肺炎 interstitial pneumonia with autoim- mune features
+
+# p87
+军团菌肺炎 legionnaires pneumonia
+军团菌感染 legionella infection
+菌血症 bacteremia
+咖啡肺 coffee-worker's lung
+卡塔格内综合征 Kartagener syndrome
+卡特金纳综合征
+开放伤 open injury
+开放性血气胸 open hemopneumothorax
+堪萨斯分枝杆菌感染 Mycobacterium kansasii infection
+空调肺 air-conditioner lung
+空气栓塞 air embolism
+空洞性肺結核 cavitary pulmonary tuberculosis
+快速眼动睡眠行为障碍 rapid eye movement sleep behavior disorder
+莱夫勒综合征 Loeffler's syndrome
+狼疮性肺病变 lupus lung disease 
+狼疮性肺部疾病
+狼疮性肺炎 lupus pneumonia
+朗格汉斯细胞组织细胞增生症 Langerhans cell histiocytosis
+老年性肺气肿 senile emphysema
+肋骨骨折 rib fracture
+肋骨良性肿瘤 benign tumor ofrib
+肋软骨炎 costochondritis,costal chondritis 
+蒂策病
+类鼻疽肺炎 melioidosis pneumonia
+类风湿性肺病 rheumatoid lung disease
+类脂性肺炎 lipoid pncumonia
+立克次体肺炎 Rickettsia pneumonia
+连枷胸 flail chest
+淋巴细胞性间质性肺炎 lymphocytic interstitial pneumonitis
+淋巴胸管损伤 lymphatic thoracic injury 
+胸部淋巴管损伤
+鳞状细胞癌 squamous cell carcinoma
+鳞状细胞癌 epidermoid carcinoma
+流感病毒肺炎 influenza virus pneumonia
+流感嗜血杆菌肺炎 Haemophilus influenzae pneumonia
+流感嗜血杆菌化脓性肺炎
+流行性感冒 influenza 
+流感
+流行性感冒胸膜炎 influenza pleurisy
+流感伴胸腔积液
+硫化血红蛋白血症 sulfhemoglobinemia
+铝尘肺 lung bauxite fibrosis 
+肺铝土纤维化
+麻疹病毒肺炎 measles pneumonia
+麻疹肺炎
+马尔尼菲青霉菌肺炎 Penicillium marneffei pneumonia
+麦芽肺 Malt-worker's lung 
+麦芽工人肺
+慢性鼻窦炎 chronic sinusitis
+慢性鼻炎 chronic rhinitis
+慢性鼻咽炎 chronic nasopharyngitis
+慢性喘息性支气管炎 chronic asthmatic bronchitis 
+喘息性支气管炎
+慢性单纯性鼻炎 chronie simple rhinitis
+慢性肺曲霉病 chronic pulmonary aspergillosis
+慢性肥厚性鼻炎 chronic hypertrophic rhinitis
+慢性肺脓肿 chronic lung abscess
+慢性肺源性心脏病 chronic pulmonary heart disease
+慢性高山病 chronic mountain sickness
+慢性咳嗽 chronic cough
+慢性喉炎 chronic laryngitis
+慢性过敏性肺炎 chronic hypersensitivity pneumonitis (HP)
+慢性呼吸衰竭 chronic respiratory failure
+慢性呼吸衰竭急性加重 acute exacerbation of chronic respiratory failure 
+慢性呼吸性碱中毒 chronie respiratory alkalosis
+慢性呼吸性酸中毒 chronie respiratory acidosis
+慢性脓胸 chronic empyema
+慢性缺钾性低钾血症 chronic potassium-deficit hypokalemia
+慢性嗜酸性粒细胞性肺炎 chronic eosinophilic pneumonia 
+嗜酸细胞性肺炎
+慢性纤维空洞型肺结核 chronic fibro-cavemous pulmonary tuberculosis 
+慢性胸膜炎 chronic pleurisy
+慢性血栓栓塞性肺动脉高压 chronic thromboembolic pulmonary hypertension
+慢性血行播散型肺结核 chronic hematogenous disseminated pulmo- nary tuberculosis
+慢性咽喉炎 chronic pharyngolaryngitis
+慢性咽炎 chronic pharyngitis
+慢性药物性肺病 chronic drug-induced pulmonary disease
+慢性支气管炎 chronic bronchitis
+慢性纵隔炎 chronic mediastinitis
+慢性阻塞性肺疾病 chronic obstructive pulmonary disease,COPD 
+慢性阻塞性肺疾病稳定期 stable stage of chronic obstructive pulmo- nary disease
+慢性阻塞性肺疾病 chronie obstructive pulmonary disease
+慢性阻塞性肺疾病合并下呼吸道感染 chronic obstructive pulmonary disease with lower respiratory tract infection
+慢性阻塞性肺疾病急性加重期 acute exacerbation of chronic obstruc- tive pulmonary disease
+慢性阻塞性肺气肿 chronic obstructive pulmonary emphysema 
+毛细血管渗漏综合征 capillary leakage syndrome
+梅格斯综合征 Meige syndrome
+煤工尘肺 coal worker's pneumoconiosis,CWP
+镁缺乏 magnesium deficiency
+低镁血症
+弥漫性恶性胸膜间皮瘤 diffuse malignant pleural mesothelioma 
+弥漫性泛细支气管炎 diffuse panbronchiolitis
+弥漫性肺间质纤维化 diffuse interstitial pulmonary fibrosis
+弥漫性肺泡出血综合征 diffuse alveolar hemorrhage syndrome 
+弥漫性肺损伤 diffuse lung injury
+弥漫性实质性肺疾病 diffuse parenchymal lung disease,DPLD 
+免疫检查点抑制剂相关肺炎 checkpoint inhibitor pncumonitis 
+弥散障碍 diffusion disorder
+磨牙症 bruxism
+蘑菇肺 mushroom worker disease 
+蘑菇工人肺
+耐多药结核病 multidrug-resistant tuberculosis,MDR-TB
+难治性哮喘 refractory asthma
+囊性纤维化 cystic fibrosis
+囊性纤维化伴肺部病变 cystic fibrosis with pulmonary manifestation 
+囊性纤维化伴混合性病变 cystic fibrosis with combined manifestation 
+囊肿 cyst
+囊状支气管扩张 cystic bronchiectasis
+鸟胞内分枝杆菌复合菌组感染 Mycobacterium avium-intracellulare 
+农民肺 farmer lung
+浓缩性高钾血症 concentrated hyperkalemia
+脓毒性休克 septic shock
+脓毒血症 pyemia
+脓胸 empyema
+脓胸伴瘘 pyothorax with fistula
+脓胸伴有瘘
+庞蒂亚克热 pontiac fever
+皮肌炎相关性间质性肺疾病 interstitial lung disease indermatomyositis
+皮肌炎并间质性肺病
+皮毛肺 furrier's lung
+皮下组织并血吸虫病 subcutancous tissue schistosomiasis
+贫血性缺氧 anemic anoxial
+葡萄球菌肺炎 staphylococcal pneumonia
+普通感冒 common cold
+普通型间质性肺炎 usual interstitial pneumonia
+气道狭窄 airway stenosis
+气道陷闭 collapse of airway
+气道新生物 airway neoplasm
+
+# P88
+气道异物 airway forcign body
+气道阻塞 airway obstruction
+气管瘢痕 tracheal cicatrix
+气管挫伤 tracheal contusion
+气管恶性肿瘤 tracheal malignant tumors
+气管梗阻 tracheal obstruction
+气管挤压伤 tracheal crushing injury
+气管继发恶性肿瘤 tracheal secondary malignant tumor
+气管交界性肿瘤 tracheal borderline tumor
+气管假性淋巴瘤 tracheal pseudolymphoma
+气管角化病 tracheal keratosis
+气管良性肿瘤 tracheal benign tumor
+气管瘘口狭窄 tracheal fistula stenosis
+气管脓肿 tracheal absces
+气管憩室 tracheal diverticulum
+气管切开窦道 tracheotomy sinus
+气管肉芽肿 tracheal granuloma
+气管软化 tracheomalacia
+气管软化症
+气管食管瘘 tracheoesophageal fistula
+气管-食管瘘
+气管受压 tracheal compression
+气管套管拔除 tracheal cannula extraction
+气管无名动脉瘘 tracheo-innominate artery fistula
+气管息肉 tracheal polyp
+气管狭窄 tracheal stenosis
+气管炎 tracheitis
+气管异物 foreign body in trachea
+气管支气管软化症 tracheobronchomalacia
+支气管软化
+气管支气管炎 tracheobronchitis
+气管-支气管炎
+气流受限 airflow limitation
+气体陷闭 air trapping
+气胸 pneumothorax
+前纵隔交界性肿瘤 anterior mediastinum borderline tumour
+前纵隔良性肿瘤 anterior mediastinum benign tumour
+侵入性肺曲霉病 invasive pulmonary aspergillosis 
+侵袭性肺曲霉菌病
+侵袭性纤维瘤病 aggressive fibromatosis
+轻度高碳酸血症 mild hypercapnia
+轻度混合性通气功能障碍 mild mixed ventilatory disorder
+轻度睡眠呼吸暂停低通气综合征 mild sleep apnea hypopnea syn- drome
+轻度通气功能障碍 mild ventilatory disorder
+轻度吸烟 mild smoking
+轻度限制性通气功能障碍 mild restrictive ventilatory disorder
+轻度阻塞性通气功能障碍 mild obstructive ventilatory disorder
+曲张型支气管扩张 varicose bronchiectasis
+全肺恶性肿瘤 whole lung malignant tumor
+全脓胸 total empyema
+全身性硬皮病性肺病变 systemie seleroderma lung disease 
+全身性硬皮病伴有肺部受累
+全身炎症反应综合征 systemic intlammatory response syndrome
+全小叶肺气肿 panacinar emphysema,panlobular emphysema
+全腺泡型肺气肿
+全叶性肺气肿
+缺钾性低钾血症 potassium-deficit hypokalemia
+缺血性缺氧 ischemic hypoxia
+缺氧 hypoxia
+缺氧性肺血管收缩 hypoxic pulmonary vasoconstriction
+热带性肺嗜酸性粒细胞增多症 tropical pulmonary cosinophilia 
+热带性肺嗜酸粒细胞增多症
+人感染高致病性禽流感 highly pathogenic avian influenza A infection in human
+人工气胸 artificial pneumothorax
+人偏肺病毒感染 human metapenu-movinus pneumonia
+妊娠期吸烟 maternal smoking
+肉芽肿所致弥漫性实质性肺疾病 Diffuse parenchymal lung disease due to granulomas
+肉芽肿性多血管炎 granulomatosis with polyangiitis,GPA
+乳糜性胸水 chylous hydrothorax
+乳糜胸 chylothorax
+乳糜胸水
+乳酸性酸中毒 lactic acidosis
+软木尘肺 suberosis
+软木沉着病
+三重酸碱失衡 triple acid-base disorder
+混合性酸碱平衡紊乱
+沙门菌肺炎 Salmonella pneumonia
+伤寒并发肺炎 typhoid fever complicated with pneumonia
+伤寒性肺炎
+伤寒并发支气管炎 typhoid fever complicated with bronchitis
+上呼吸道淀粉样变性 amyloidosis of upper respiratory tract
+上呼吸道感染 upper respiratory tract infection
+上腔静脉阻塞综合征 superior vena caval obstruction syndrome
+社区获得性肺炎 community acquired pneumonia
+社区获得性支原体肺炎 community acquired mycoplasmal pneumonia 
+神经源性肺水肿 neurogenic pulmonary edema,NPE
+生理性分流 physiological shunt
+上气道咳嗽综合征 upper airway cough syndrome,UACS
+上气道阻力综合征 upper airway resistance syndrome，UARS
+深静脉血栓形成 deep venous thrombosis
+失代偿性代谢性酸中毒 decompensated metabolic acidosis
+失代偿性碱中毒 decompensated alkalosis
+失代偿性酸中毒 decompensated acidosis
+石棉沉着病 asbestosis
+石棉肺
+石墨尘肺 graphite pneumoconiosis
+食管闭锁伴气管食管瘘 esophageal atresia with esophago tracheal fistula 
+食管裂孔疝 hiatal hernia
+食管气管瘘 esophago-tracheal fistula
+支气管食管瘘
+食管胸膜瘘 esophagopleural fistula
+食管支气管瘘 esophagobronchial fistula
+食管纵隔瘘 esophagomediastinal fistula
+嗜肺军团菌肺炎 legionella pneumophila pneumonia
+嗜麦芽窄食单胞菌肺炎 Stenotrophomonas maltophilia pneumonia 
+嗜酸性粒细胞性支气管炎 cosinophilic bronchitis
+嗜酸性粒细胞增多性非变应性鼻炎 cosinophilic nonallergic rhinitis
+嗜酸性粒细胞增多症 eosinophilia
+嗜酸性肉芽肿 eosinophilic granulomatosis 
+嗜酸性粒细胞性淋巴肉芽肿
+嗜酸性粒细胞肉芽肿A
+嗜酸性肉芽肿性多血管炎 eosinophilic granulomatosis with polyangiitis 
+手术后肺功能不全 postoperative pulmonary dysfunction
+手术后慢性肺功能不全 postoperative chronic pulmonary dysfunc-tion 
+手术后慢性呼吸功能不全
+手术后气管狭窄 postoperative tracheal stenosis
+手术后胸腔积液 postoperative pleural effusion
+手术后气胸 postoperative pneumothorax
+手术后支气管胸膜瘘 postoperative bronchopleural fistula
+输注液相关血流感染 infusion related bloodstream infection
+双重代谢性酸碱紊乱 double metabolic acid-base disorder 
+双重酸碱紊乱
+水痘-带状疱疹病毒肺炎 varicella-zoster virus pneumonia
+水痘性肺炎 varicella pneumonia
+水痘肺炎
+水中毒 water intoxication
+睡眠低通气 sleep hypoventilation
+睡眠低通气综合征 sleep hypoventilation syndrome
+睡眠癫痫发作 seizures insleep
+睡眠呼吸暂停 sleep apnoca
+睡眠呼吸暂停低通气指数 sleep-related apnea-hypopnea index
+睡眠呼吸暂停低通气综合征 sleep apnea hypopnea syndrome 
+睡眠呼吸暂停-低通气综合征
+睡眠呼吸障碍 sleep-related breathing disorder
+睡眠节律性运动异常 sleep-related rhythmic movement disorder
+睡眠时相前移综合征 advanced sleep-phase syndrome
+
+# p89
+睡眠时相延迟综合征 delayed sleep-phase syndrome
+睡眠障碍 sleep disorder
+饲鸽者肺 pigeon fancier's lung
+鸽子饲养员的肺部疾病 pigeon fancier's lung
+饲鸟者肺 bird fancier's lung
+好鸟者肺
+速发相哮喘反应 immediate asthmatic reaction
+酸碱平衡失调 acid-base imbalance
+酸碱平衡紊乱 acid-base disturbance
+酸血症acidaemia
+酸中毒 acidosis
+锁骨良性肿瘤 collar bone benign tumor
+叹气 sigh
+炭疽肺炎 anthrax pneumonia
+碳末沉着病 anthracosis 
+炭肺
+碳矽末沉着症 anthracosilicosis 
+煤矽肺
+唐氏综合征 Down syndrome
+特发性肺动脉高压 idiopathic pulmonary arterial hypertension
+特发性动脉性肺动脉高压
+特发性肺含铁血黄素沉着症 idiopathic pulmonary hemosiderosis
+特发性肺纤维化 idiopathic pulmonary fibrosis 
+特发性弥漫性肺问质纤维化
+特发性肺纤维化急性加重期 acute exacerbations of idiopathic pulmo- nary fibrosis
+特发性肺炎综合征 idiopathic pneumonia syndrome
+特发性间质性肺炎 idiopathic interstitial pneumonia
+特发性嗜睡 idiopathic hypersomnia
+特发性嗜酸性粒细胞性肺炎 idiopathic eosinophilic pneumonia
+特发性胸膜肺实质弹力纤维增生症 idiopathic pleuroparenchymal fibroelastosis
+特发性胸腔积液 idiopathic pleural effusion
+特异性免疫治疗 specific immunotherapy
+特应性哮喘 atopic asthma
+通气代偿 compensated ventilation
+通气功能障碍 ventilatory disorder
+通气过度综合征 hyperventilation syndrome
+通气失代偿 decompensated ventilation
+通气血流比例失调 ventilation perfusion ratio mismatch
+铜绿假单胞菌肺炎 pseudomonas aeruginosa pneumonia 
+假单胞菌性肺炎
+绿脓杆菌(性)肺炎
+脱水 dehydration
+脱屑型间质性肺炎 desquamative interstitial pneumonial
+外因性哮喘 extrinsic asthma
+外源性肺泡炎 extrinsic alveolitis 
+过敏性肺炎
+外源性过敏性肺泡炎
+外源性哮喘 extrinsic asthma
+外周性疲劳 peripheral fatigue 
+周边疲劳
+微小型肺动静脉畸形 micro pulmonary arteriovenous malformation 
+萎缩性鼻炎 atrophic rhinitis
+未知病毒的流行性感冒伴肺炎 influenza with pneumonia(virus not identified) 
+流感伴肺炎(病毒未明确)
+胃食管反流性咳嗽 gastroesophageal reflux cough
+无症状性低钠血症 asymptomatic hyponatremia
+吸入性肺脓肿 aspiration lung abscess
+吸入性肺炎 aspiration pneumonia
+吸入性损伤 inhalation injury
+吸入血引起的肺炎 blood aspiration pneumonia
+吸入油引起的肺炎 oil aspiration pncumonia 
+油和植物精油引起的肺炎
+吸入有毒气体性肺炎 toxic gas aspiration pneumonia
+化学制剂、气体、烟雾和蒸气引起的支气管炎和肺炎
+吸收性肺不张 resorptive atelectasis
+吸烟指数 cigarette smoking index
+稀释性低钾血症 dilutional hypokalemia
+稀释性低钠血症 dilutional hyponatremia
+锡尘肺 stannosis 
+锡及其化合物粉尘肺沉着病
+
+洗奶酪肺 cheese-washer's lung
+系统性气栓塞 systemic air embolism
+细菌性肺炎 bacterial pneumonia
+细菌性支气管肺炎 bacterial bronchopneumonia
+细支气管恶性肿瘤 bronchiole malignant tumor
+细支气管肺泡癌 bronchioloalveolar carcinoma
+细支气管扩张症 bronchiolectasis
+细支气管异物 foreign body in bronchiole 
+细支气管内异物
+先天性鼻咽闭锁 congenital nasopharynx atresia
+先天性叉状肋 congenital rib bifurcation
+先天性肺动静脉畸形 congenital pulmonary arteriovenous malforma- tion
+先天性肺动脉异常起源或发育异常 congenital abnormal origin or developmental abnormaly of pulmonary artery
+先天性肺囊肿 congenital pulmonary cyst
+先天性副肺叶 congenital accessory lobe of lung
+先天性膈疝 congenital diaphragmatic hernia
+先天性膈畸形 congenital malformation of diaphragm
+先天性肋骨畸形 congenital malformation of rib
+先天性肋骨缺失
+先天性肋骨融合 congenital absence of rib
+先天性肋骨融合 congenital rib fusion
+先天性肋骨外翻 congenital rib eversion
+先天性囊性腺瘤样畸形 ongenital cystic adenomatoid malformation
+先天性肺气道畸形
+先天性气管支气管发育不全 congenital tracheobronchial hypoplasia
+先天性气管发育异常
+先天性无肺叶 congenital absence of lung lobe
+先天性腺瘤样肺囊肿 congenital pulmonary adenomatoid cyst
+先天性胸骨畸形 congenital malformation of sternum
+先天性支气管错构瘤 congenital bronchial hamartoma
+先天性支气管畸形 congenital malformation of bronchial
+先天性纵隔囊肿 congenital cyst of mediastinum
+纤维蛋白性胸膜炎 fibrinous pleurisy
+纤维蛋白性支气管炎 fibrinous bronchitis
+显微镜下多血管炎 microscopie polyangitis
+限制性通气功能障碍 restrictive ventilatory disorder
+纤维胸 fibrothorax
+腺癌adenocarcinoma
+腺病毒性肺炎 adenoviral pneumonia
+腺鳞癌 adenosquamous carcinomal
+腺泡周围型肺气肿 periacinar emphysema
+相对肾上腺皮质功能不全 relative adrenal insufficiency
+相关因素所致肺动脉高压 associated pulmonary arterial hypertention 
+小儿肺炎 infantile pneumonia
+小气道病变 small airway disease 
+肺小气道病变
+小气道功能障碍 small airway dysfunction 
+小气道通气功能障碍
+小气道陷闭 collapse of small airway
+小细胞肺癌 small cell lung cancer
+小叶性肺炎 lobular pneumonia
+哮喘-慢性阻塞性肺疾病重叠 asthma-COPD overlap
+哮喘完全控制 complete control ofasthma
+哮喘未控制 uncontrolled asthma
+哮喘性肺嗜酸性粒细胞浸润症 asthmatic pulmonary eosinophilia 
+肺嗜酸性粒细胞增多症
+心包囊肿 pericardial eyst
+心包气肿 pneumopericardium
+心肌梗死后综合征 postmyocardial infarction syndrome
+心源性肺水肿 cardiogenic pulmonary edema
+新生儿持续性肺动脉高压 persistent pulmonary hypertension of new. born,PPHN
+新生儿慢性肺疾病 chronic lung disease of newborn
+新生儿气管炎 neonatal bronchitis
+新生儿通气机肺 ventilator lung in newborn
+
+# p90
+新生儿先天性肺纤维化 neonatal congenital pulmonary fibrosis
+新生儿支气管肺发育不良 nconatal bronchopulmonary dysplasia
+新生儿支气管肺炎 neonatal bronchopneumonia
+新型隐球菌肺炎 cryptococcus neoformans pneumonia
+胸壁窦道 sinus of thoracic wall
+胸壁恶性肿瘤 chest wall malignancy
+胸壁继发恶性肿瘤 secondary malignant tumor of chest wall
+胸壁多发转移
+胸壁转移
+胸壁结核 thoracic tuberculosis
+胸壁良性肿瘤 benign tumor of chest wall
+胸壁淋巴结结核 thoracic lymph node tuberculosis
+胸壁术后软化 postoperative chest wall softening
+胸壁纤维肉瘤 fibrosarcoma of chest wall
+胸部恶性肿瘤 thoracie malignant tumor
+胸部淋巴管瘤 thoracic lymphangiomatosis 
+胸腔淋巴管瘤 
+胸部损伤 thoracic trauma
+胸导管梗阻 thoracic duct obstruction
+胸导管损伤 thoracic duct injury
+胸骨良性肿瘤 sternum benign tumor
+胸骨旁膈疝 parasternal diaphragmatic hernia
+胸廓内非固定性大气道阻塞 intra-thoracic nonfixed obstruction of large airway
+胸廓外非固定性大气道阻塞 extra-thoracic nonfixed obstruction of large airway
+胸廓外伤 thoracic trauma
+胸闷变异性哮喘 chest tightness variant asthma
+胸膜斑伴石棉沉着病 pleural plaque with ashestosis
+胸膜壁层恶性肿瘤 parietal pleura malignancy 
+壁层胸膜恶性肿瘤
+胸膜病变 pleural disease
+胸膜钙化 pleural calcification
+胸膜疾病 pleural disease
+胸膜棘球蚴病 pleural echinococcosis
+胸膜间皮瘤 mesothelioma of pleura 
+胸膜恶性间皮瘤
+胸膜交界性肿瘤 pleura borderline tumor 
+胸膜良恶性未定 
+胸膜结核瘤 pleural tuberculoma
+胸膜良性肿瘤 benign tumor of pleural
+胸膜腔积液 pleural effusion
+胸膜纤维样增生 pleural fibrous hyperplasia
+胸膜性肿瘤 malignant tumor of pleural
+胸膜炎 pleurisy
+胸膜炎伴积液 pleurisy with effusion
+胸膜增厚 pleural thickening 
+胸膜肥厚
+胸膜粘连 pleural adhesions 
+胸膜增厚粘连
+胸膜脂肪瘤 pleural lipoma
+胸内继发恶性肿瘤 secondary malignant intrathoracic tumor
+胸内淋巴结继发恶性肿瘤 secondary malignant intrathoracic lymph node
+胸内淋巴结结核 tuberculosis of intrathoracic lymph node
+胸腔感染 chest infection
+胸腔积液 pleural effusion
+胸膜腔积液
+胸腔交界性肿瘤 pleural borderline tumor
+胸腔漏出液 pleural transudate
+胸腔内器官的良性肿瘤 benign intrathoracic tumor 
+胸腔内器官良性肿瘤
+胸腔烧伤 chest burn
+胸腔占位性病变 thoracic space-occupying lesion
+胸腔脂肪瘤 thoracic lipoma
+胸锁关节脱位 sternoclavicular dislocation
+胸腺癌 thymic carcinoma
+胸腺淋巴管瘤 thymus lymphangioma
+胸腺瘤 thymoma
+胸腺囊肿 thymic cyst
+
+ 血管炎肺损害 vasculitis with pulmonary damage
+血管运动性鼻炎 vasomotor rhinitis
+血红蛋白病 hemoglobinopathy
+血流感染 bloodstream infection
+血气胸hemopneumothorax
+血行播散型肺结核 hematogenous disseminated pulmonary tuberculosis 
+血性胸水 bloody hydrothorax
+血胸 hemothorax
+血液性缺氧 hemic hypoxia
+循环性缺氧 circulatory hypoxia
+压迫性肺不张 compression atelectasis
+亚急性咳嗽 subacute cough
+亚急性粟粒性肺结核 subacute miliary tuberculosis
+亚急性血行播散型肺结核 subacute hematogenous pulmonary tuberculosis
+亚急性药物性肺疾病 subacute drug-induced pulmonary disease 
+亚麻肺 flax-dresser's disease 
+亚麻清铲工病
+烟草依赖 tobacco dependence
+使用烟草引起的依赖综合征
+严重急性呼吸综合征 severe acute respiratory syndrome
+炎症性损毁肺 inflammatory lung damage
+咽炎 pharyngitis
+羊水栓塞 amniotic fluid embolism
+杨氏综合征 Young's syndrome
+药物和毒物相关性肺动脉高压 drug and toxin associated pulmonaryhypertension 
+药物性肺动脉高压
+药物性鼻炎 medicamentous rhinitis
+药物性肺疾病 drug-induced lung disease
+药物性肺损伤 drug-induced lung damage
+药物性间质性肺疾病 drug-induced interstitial lung disease
+药物性间质性肺炎 drug-induced interstitial pneumonia
+药物性哮喘 drug-induced asthma
+药物性支气管哮喘 drug-induced bronchial asthma
+叶间积液 interlobar effusion
+腋窝淋巴结炎 axillary lymphadenitis
+液气胸 hydropneumothorax
+腋窝恶性肿瘤 axillary malignant tumor
+腋恶性肿瘤 
+一氧化碳弥散量下降 decreased diffusion capacity of carbon monoxide 
+一氧化碳中毒 carbon monoxide poisoning
+医源性气胸 iatrogenic pneumothorax
+医院获得性肺炎 hospital acquired pneumonia
+遗传性出血性毛细血管扩张症 hereditary hemorrhagic telangiectasia, HHT
+遗传性肺动脉高压 hereditary pulmonary arterial hypertension
+乙型流感病毒肺炎 influenza B virus pneumonia
+阴沟杆菌性肺炎 enterobacter cloacae pneumonia
+隐球菌肺炎 cryptococcal pneumonia
+隐源性机化性肺炎 cryptogenie organizing pneumonia
+应激性高血糖 stress hyperglycemia
+应激性溃疡 stress ulcer
+婴儿喘息性支气管肺炎 infantile asthmatic bronchopneumonia 
+婴儿支气管肺炎 infantile bronchopneumonia
+婴儿支气管炎 infantile bronchitis
+鹦鹉热肺炎 psittacosis pneumonia
+右肺恶性肿瘤 right lung cancer
+右主支气管恶性肿瘤 right main bronchus cancer
+淤血性缺氧 congestive hypoxia
+鱼食肺 fishmeal-worker's lung
+原发型肺结核 primary pulmonary tuberculosis
+原发性肺泡低通气综合征 primary alveolar hypoventilation syndrome 
+原发性高钠血症 primary hypernatremia
+原发性纤毛运动不良症 primary ciliary dyskinesia
+原发性支气管淀粉样变 primary bronchial amyloidosis
+气管支气管淀粉样变
+
+
+# P91
+原发性支气管肺癌 primary bronchogenic carcinoma
+原发性支气管肺淀粉样变 primary bronchopulmonary amyloidosis
+淀粉样变肺损害
+原发性纵隔淋巴瘤 primary mediastinal lymphoma
+月经期支气管哮喘 bronchial asthma menstrual period
+月经期支气管哮喘 menstrual period bronchial asthma
+月经性气胸 catamenial pneumothorax
+允许性高碳酸血症 permissive hypercapnia
+运动性哮喘 exercise-induced asthma
+脏胸膜恶性肿瘤 visceral pleura malignancy
+脏层胸膜恶性肿瘤
+灶性肺气肿 focal emphysema
+增殖性肺结核 pulmonary tuberculosis of proliferative type
+粘连性肺不张 adhesive atelectasis
+张力性气胸 tension pncumothorax
+蔗尘沉着病 bagassosis 
+蔗尘肺
+真菌性肺炎 fungal pneumonia 
+真菌肺炎
+正常肺容积呼吸衰竭 respiratory failure with normal lung volume 
+正常容量性高钠血症 normovolemic hypernatremia
+支管胆管瘘 bronchobiliary fistula
+支气管败血性杆菌百日咳 bronchial septic bacillus pertussis
+支气管淀粉样变 bronchial amyloidosis
+支气管动脉破裂 bronchial artery rupture
+支气管肺发育不良 broncho-pulmonary dysplasia,BPD
+支气管肺炎bronchopneumonia
+支气管-肺真菌病 bronchial-pulmonary mycosis 
+支气管肺真菌病
+支气管封堵 bronchial occlusion
+支气管钙化 bronchial calcification
+支气管化脓性肉芽肿 bronchial pyogenic granuloma
+支气管及肺脂肪瘤 lipoma of bronchus and lung
+支气管继发恶性肿瘤 bronchus secondary malignant tumor
+支气管交界性肿瘤 bronchial borderline tumor
+支气管结石 broncholithiasis
+支气管溃疡 bronchial ulceration
+支气管扩张合并咯血 bronchiectasis with hemoptysis
+支气管扩张症 bronchiectasis
+支气管扩张
+支气管良性肿瘤 bronchial benign tumor
+支气管淋巴结继发恶性肿瘤 bronchial lymph node secondary malig-nant tumor
+支气管肺淋巴结继发恶性肿瘤
+支气管淋巴结结核 bronchial lymph node tuberculosis
+支气管瘘 bronchial fistula
+支气管囊肿 bronchogenic cyst
+气管支气管囊肿
+支气管内出血 endobronchial hemorrhage
+支气管内膜结核 endobronchial tuberculosis
+支气管黏膜纤维组织增生 bronchial mucosa fibrosis
+支气管黏液表皮样癌 mucoepidermoid carcinoma of bronchus
+支气管念珠菌感染病 bronchial candidiasis
+支气管念珠菌病
+支气管平滑肌瘤 bronchial leiomyoma
+支气管乳头状瘤 bronchial papilloma
+支气管软骨继发恶性肿瘤 bronchial cartilage secondary malignanttumon
+支气管软骨瘤 bronchial chondroma
+支气管胃结肠瘘 gastrocolic bronchial fistula
+支气管痰
+胃结肠瘘
+支气管胃瘘 bronchogastric fistula
+胃支气管瘘
+支气管息肉 bronchial polyp
+支气管狭窄 bronchial stenosis
+支气管腺瘤 bronchial adenoma
+
+ 支气管腺样囊性癌 bronchial adenoid eystic carcinoma
+支气管哮喘 bronchial asthma
+支气管哮喘(部分控制) bronchial asthma (partial control)
+支气管哮喘(间歇发作) bronchial asthma (intermittent episodes)
+支气管哮喘(慢性持续期) bronchial asthma (chronic duration)
+支气管哮喘(轻度持续)
+支气管哮喘(中度持续) bronchial asthma (mild persistent)
+支气管哮喘(重度持续) bronchial asthma (severe persistent)
+支气管哮喘急性发作(轻度) bronchial asthma exacerbation (mild)
+支气管哮喘急性发作(危重) bronchial asthma exacerbation (critical) 
+支气管哮喘急性发作(中度) bronchial asthma exacerbation (moderate) 
+支气管哮喘急性发作(重度) bronchial asthma exacerbation(severe)
+哮喘持续状态包括重症哮喘发作
+支气管哮喘急性发作期 acute exacerbation of asthma
+支气管哮喘慢性持续期 chronic persistent of asthma
+支气管哮喘慢性阻塞性肺疾病重叠 asthma and chronic obstructive pulmonary disease overlap
+支气管新生物 bronchial neoplasm
+支气管胸膜瘘 bronchopleural fistula
+支气管炎 bronchitis
+支气管炎性肿物 bronchitis of mass
+支气管异物 foreign body in bronchus
+支气管原位癌 bronchial carcinoma in situ
+支气管真菌感染 bronchial fungal infection
+支气管脂肪瘤 bronchial lipoma
+支气管中心性肉芽肿病 bronchocentrie granulomatosis 
+支气管肉芽肿
+支气管周围炎peribronchitis
+支原体肺炎 mycoplasma pneumonia
+支原体性肺炎 
+脂肪栓塞综合征 fat embolism syndrome
+职业性哮喘 occupational asthma
+致纤维化肺泡炎 fibrosing alveolitis
+置管相关性感染 catheter-related infection
+中度高碳酸血症 moderate hypercapnia
+中度睡眠呼吸暂停低通气综合征 moderate sleep apnea hypopnea syndrome
+中度通气功能障碍 moderate ventilatory disorder
+中度吸烟 moderate smoking
+中度限制性通气功能障碍 moderate restrictive ventilation dysfunc- tion
+中度阻塞性通气功能障碍 moderate obstructive ventilation dysfunc- tion
+中枢神经系统肠源性囊肿 enterogenous cyst of central nervous sys tem
+中枢性低通气综合征 central hypoventilation syndrome
+中枢性肺泡低通气综合征 central alveolar hypoventilation syndrome 
+中枢性疲劳 central fatigue
+中枢性睡眠呼吸暂停综合征 central sleep apnea syndrome
+中枢型睡眠呼吸暂停
+中心叶性肺气肿 central lobe emphysema
+小叶中央型肺气肿
+中央型肺癌 central bronchogenic carcinoma
+肿瘤标记物升高 clevated tumor marker
+中毒性肺炎 toxic pneumonia
+重度低白蛋白血症 severe hypoalbuminemia
+重度低蛋白血症 severe hypoproteinemia
+重度高碳酸血症 severe hypereapnia
+重度急性呼吸窘迫综合征 severe acute respiratory distress syndrome 
+重度慢性阻塞性肺疾病急性加重期 severe acute exacerbation of chronic obstructive pulmonary disease
+重度脓毒症 severe sepsis
+重度睡眠呼吸暂停低通气综合征 severe sleep apnea hypopnea syndrome 
+重度通气功能障碍 severe ventilatory disorder
+重度吸烟 severe smoking
+
+# p92
+重度限制性通气功能障碍 severe restrictive ventilation dysfunetion 
+重度阻塞型睡眠呼吸暂停低通气综合征 severe obstructive sleep apnea hypopnea syndrome
+重度阻塞性通气功能障碍 severe obstructive ventilatory dysfunction 
+重症病毒性肺炎 severe viral pneumonia
+重症肺孢子菌肺炎 severe Pneumocystis carinii pneumonia, PCP
+重症肺炎 severe pneumonia
+重症甲流肺炎 severe influenza A virus pneumonia
+重症巨细胞病毒肺炎 severe cytomegalovirus pneumonia
+重症流感 severe influenza
+重症流感肺炎 severe influenza virus pneumonia
+重症毛细支气管炎 severe bronchiolitis
+重症社区获得性肺炎 severe community-aequired pneumonia
+重症腺病毒性肺炎 severe adenovirus pneumonia
+重症哮喘 severe asthm
+重症哮喘急性发作
+重症乙型流感 severe influenza B
+周期性嗜睡 periodic sleepiness,periodic somnolence
+克莱恩-莱文综合征
+周期性嗜睡与病理性饥饿综合征
+周围型肺癌 peripheral lung cancer
+主动吸烟 active smoking
+主支气管良性肿瘤 main bronchus benign tumor
+主支气管旁良性肿瘤 benign tumor adjacent to the main bronchus 
+柱型支气管扩张 cylindrical bronchiectasis
+铸工尘肺 pneumoconiosis in foundry workers
+转移性低钾血症 shifted hypokalemia
+转移性低钠血症 shifted hyponatremia
+转移性高钾血症 shifted hyperkalemia
+嗳气 belching
+凹陷性水肿 pitting edema
+白色泡沫样痰 white frothy sputum
+爆裂音 inspiratory crackle
+鼻塞 nasal tampon
+扁平胸 flat chest
+憋气 suffocation
+潮式呼吸 tidal breathing
+陈-施式呼吸
+齿轮呼吸音 cogwheel breath sound
+粗湿哕音 coarse moist rale
+大量咯血 massive hemoptysis
+大量稀水样痰 profuse water-like sputum
+大量白色泡沫样痰 profuse white frothy sputum
+大量粉红色泡沫样痰 profuse pink frothy sputum
+盗汗 night sweating
+窦道 sinus tract
+低调干哕音 sonorous rhonchi
+鼾音A
+端坐呼吸 orthopnea
+耳语音增强 whispered pectoriloquy enhancement
+发绀 cyanosis
+放射痛 radiating pain
+发音困难 dysphonia
+反常呼吸 paradoxical respiration
+反常呼吸运动
+非凹陷性水肿 non-pitting edema
+肺不张 atelectasis
+肺膨胀不良
+肺泡呼吸音 vesicular breath sounds
+肺性发绀 pulmonary cyanosis
+肺源性呼吸困难 pulmonary dyspnca
+
+ 坠积性肺不张 hypostatic atclcctasis
+坠积性肺炎 hypostatie pneumonia
+自发性气胸 spontaneous pneumothorax
+纵隔恶性肿瘤 mediastinal malignant tumor
+纵隔畸胎瘤 mediastinal teratoma
+纵隔继发恶性肿瘤 secondary malignant tumor of mediastinum
+纵隔交界性肿瘤 borderline tumor of mediastinum
+纵隔结核瘤 mediastinal tuberculoma
+纵隔淋巴管瘤 mediastinal lymphangioma
+纵隔淋巴结继发恶性肿瘤 secondary malignant tumor of mediastinal lymph node
+纵隔淋巴结结核 mediastinal lymphonode tuberculosis
+纵隔血管瘤 mediastinal hemangioma
+纵隔阴影 mediastinal shadow
+纵隔脂肪瘤 mediastinal lipom
+阻塞性肺不张 obstructive atelectasis
+阻塞性气管支气管曲霉病 obstructive tracheobronchial aspergillosis
+阻塞性气管支气管真菌病
+阻塞性通气功能障碍 obstructive ventilatory disorder
+阻塞性通气障碍
+组织性缺氧 histogenous hypoxia
+左肺恶性肿瘤 left lung cancer
+左肺上叶恶性肿瘤 malignant tumor of upper lobe of left lung
+左肺下叶恶性肿瘤 malignant tumor of lower lobe of left lung
+左心疾病相关性肺动脉高压 left heart disease associated pulmonary hypertension
+左主支气管恶性肿瘤 left main bronchus cancer
+粉红色泡沫样痰 pink frothy sputum
+附加音 adventitious sound
+腹式呼吸 Diaphragmatic breathing
+干哕音 rhonchi，rhonchus
+干性咳嗽 dry cough
+高调干哕音 sibilant rhonchi
+咯血 hemoptysis
+佝偻病胸 rachitic chest
+鼓音 tympany
+过清音 hyperresonance
+咳嗽 cough
+咳痰 expectoration
+呼气性呼吸困难 expiratory dyspnea
+呼吸短促 shortness of breath
+呼吸过缓 bradypnca
+呼吸急促 tachypnca
+呼吸减慢 hypopnea
+呼吸节律 respiratory rhythm
+呼吸困难 dyspnea
+呼吸频率 respiratory rate
+呼吸音 breath sound
+呼吸运动 breathing exercise
+呼吸增强 hyperpnoca
+胡佛征 Hoover sign
+混合性发绀 mixed cyanosis
+混合性呼吸困难 mixed dyspnea
+鸡胸 pectus carinatum
+脊柱侧凸 scoliosis
+脊柱侧凸(弯)
+
+# P93
+脊柱后凸 kyphosis
+脊柱后凸旋转
+脊柱后突
+脊柱前凸 lordosis
+李肋不适 hypochondriac discomfort
+李肋区疼 hypochondriac pain
+间停呼吸 meningitic breathing, Biot breathin
+比奥呼吸
+金属音调咳嗽 brassy cough
+局限性水肿 localized edema
+空瓮音 amphorophony
+肋膈沟 costophrenic groove
+哈里森沟
+肋骨串珠 rachitic rosary
+漏出性胸腔积液 transudative pleural effusion
+漏斗胸 funncl chest
+啰音 ralc
+慢性气道炎症 chronic airvay inflammation
+黏液脓性痰 mucopurulcnt sputum
+黏液性痰 mucous sputum
+捻发音 crepitus
+脓痰 purulent sputum
+皮下气肿 subcutaneous emphysema
+气促 short breath
+气管出血 tracheorrhagia
+气管支气管钙化 thc trachcobronchial lesions with caleification
+牵拉性支气管扩张 traction bronchicctasis
+呛咳 bucking
+轻度水肿 mild edema
+清音 resonance
+全身性水肿 generalized edema
+缺血性周围性发绀 ischemic peripheral cyanosis
+三征 three depressions sign
+神经性呼吸困难 dyspneoneurosis
+湿啰音 moistrale
+湿性咳噭 moist cough
+实音 flatness
+双吸气 double inspiration
+水肿 cdema
+酸中毒大呼吸 Kussmaul respiration in acidosis,Kussmaul respiration
+库斯莫尔呼吸
+随意呼吸 voluntary breathing
+缩唇呼气 pursed-lip breathing
+叹气样呼吸 sighing breathing
+铁锈色痰 nustysputum
+桶状胸 barrel chest
+吸气性喘鸣 inspiratory stridor
+吸气性呼吸困难 inspiratory dyspnca
+吸烟 smoking
+细湿啰音 finc moist rale
+小量咯血 mild hemoptysis
+T管撤机法 T tubc wcaning
+按需阀送气 dcmand valve air feed
+靶向治疗 targeted therapy
+闭环通气 closed loop ventilation
+表面活性物质吸入疗法 surfactant inhalation therapy
+部分肠外营养 partial parenteral nutrition
+部分液体通气 partial liquid ventilation, PLV
+侧臣位通气 lateral position ventilation
+
+哮鸣 wheczing
+心因性咳嗽 psychogcnic cough
+心源性发绀 cardiogenic cyanosis
+心源性呼吸困难 cardiac dyspnea
+胸腹矛盾呼吸 paradoxical thoracoabdominal motion
+胸廓畸形 thoracic deformity
+胸廓扩张度 thoracic expansion 
+胸闷 oppression in chest
+胸膜摩擦感 pleural friction fremitus
+胸膜摩擦音 pleural friction rub
+胸腔鼓音 pleural drum
+胸腔异常敲击音 abnormal chest pcrcussion sound
+胸式呼吸 thoracic breathing
+胸痛 chest pain
+胸语音 pectoriloquy
+血性痰 bloody sputum
+血压 blood pressure
+羊鸣音 egophony
+夜间阵发性呼吸困难 paroxysmal nocturnal dyspnea.
+腋贲淋巴结肿大 Axillary lymphadenopathy
+异常肺泡呼吸音 abnormal vesicular breath sound
+异常呼吸音 abnormal brcath sound
+异常支气管肺泡呼吸音 abnormal bronchovesicular brcath sound 
+异常支气管呼吸音 abnormal bronchial brcath sound
+抑制性呼吸 inhibitory breathing
+隐性水肿 recessive edema
+硬币征 coin sign
+有效咳嗽 effective cough
+淤血性周围性发绀 congestive peripheral cyanosis
+语音共振 vocal resonance
+语音震额 vocal fremitus
+正常呼吸音 normal breath sound
+正常呼吸运动 normal breathing motion
+支气管肺泡呼吸音 bronchovesicular brcath sound
+支气管呼吸音 bronchial breath sound
+支气管语音 bronchophony
+中等量咯血 moderate hemoptysis
+中度水肿 moderate edema
+中湿啰音 mnedium moist rale
+中心性发绀 central cyanosis
+中毒性呼吸困难 toxic dyspnea
+重度漏斗胸 severe Pectus excavatum
+重度水肿 severe edema
+周围性发绀 periphcral cyanosis
+浊音 dullness
+自主呼吸频率 spontancous Tespiratory frequcncy
+长程氧疗 long-lcrm oxygcn thcrapy
+肠内营养 cnteral nutrition
+肠外营养 parenteral nutrition
+常规潮气量 noral tidal volume
+常规潮气容积
+常规潮气容积机械通气 conventional tidal volume mechanical ventilation 
+常规机械通气 conventional mechanical ventilation
+超声内镜下经支气管针吸活检 endobronchial ultrasound-guided trans- bronchial needle aspiration, EBUS-TBNA
+
+# p94
+
+超声引导下经皮肺穿刺 ultrasound-guided percutancous lung biopsy
+超声引导下肺穿刺活检
+超声引导下胸腔穿刺 ultrasound-guided thoracentesis
+超声引导下胸腔穿刺置管术 ultrasound-guided intrapleural position- ing of pleural catheters 
+超声引导下胸腔穿刺置管
+撤机 weaning
+撒机方法 weaning method
+成比例通气 proportional ventilation
+持续低流量氧疗 continuous low-flow oxygen therapy
+持续气道正压通气 continuous positive airway pressure
+持续负压通气 continuous negative pressure ventilation
+持续气流送气 continuous flow air feed
+持续正压通气 continuous positive pressure ventilation
+持续指令通气 continuous mandatory ventilation
+床边气管切开术 bedside tracheotomy
+床旁气管插管 bedside endotracheal intubation
+伺服阀送气 servo valve air feed
+大潮气量 high tidal volume
+大潮气量机械通气 high tidal volume mechanical ventilation
+代谢调理 metabolic intervention
+单纯超滤 isolated ultrafiltration
+代谢支持 metabolic support
+低流量氧疗 low-low oxygen therapy
+低浓度氧疗 low concentration oxygen therapy
+低水平呼气末正压 low level positive end-expiratory pressure
+电子气管镜检查 electronic tracheoscopy
+定容型反比通气 volume-controlled inverse ratio ventilation
+定容型模式 volume-controlled mode
+定时触发 timing trigger
+定压通气 pressure target ventilation
+定压型持续指令通气 pressure-controlled continuous mandatory ventilation 
+定压型反比通气 pressure-controlled inverse ratio ventilation
+定压型模式 pressure-controlled mode
+定压型同步持续指令通气 pressure-controlled synchronized continu- ous mandatory ventilation
+短程氧疗 short-term oxygen therapy
+放射治疗 radiation therapy
+反比通气 inverse ratio ventilation
+肺癌的化学治疗 chemical treatment of lung cancer
+肺癌的治疗 treatment of lung cancer
+肺保护性通气策略 lung protective ventilation strategy
+肺部肿物切除术 resection of lung mass
+肺复张方法 recruitment maneuver
+肺活检 lung biopsy
+肺减容术 lung volume reduction surgery
+肺开放策略 open lung strategy
+肺康复 pulmonary rehabilitation
+肺泡引流 drainage of alveolus
+肺移植 lung transplantation
+分侧肺通气 independent lung ventilation
+俯卧位通气 prone ventilation
+辅助-控制通气 assist-control ventilation
+辅助通气 assisted ventilation
+辅助性化疗 adjuvant chemotherapy
+分期性手术 staging surgery
+氟碳化合物fluorocarbon
+负压通气 negative pressure ventilation
+复合转换 combined cycling
+改善组织供氧 improving tissue oxygen supply
+高浓度氧疗 high concentration oxygen therapy
+高流量氧疗 high-flow oxygen therapy
+高频电疗法 high frequency electrotherapy
+高频呼吸机 high frequency ventilator
+高频喷射呼吸机 high frequency jet ventilator
+高频喷射通气 high frequency jet ventilation
+高频气流阻断式高频振荡通气 high frequency llow interrupter high frequency oscillation ventilation
+高频通气 high frequency ventilation
+高频胸壁振荡 high frequency chest wall oscillation
+高频振荡通气 high frequency oscillation ventilation
+高频正压通气 high frequency positive pressure ventilation
+高水平呼气末正压 high level positive end-expiratory pressure 
+高压氧 hyperbaric oxygen
+高压氧疗 hyperbaric oxygen therapy
+根治性放疗 radical radiotherapy
+根治性手术 radical surgery
+根治性化疗 radical chemotherapy
+更换气管插管 exchanging the endotracheal tube
+姑息性放疗 palliative radiotherapy
+姑息性化疗 palliative chemotherapy
+姑息性手术 palliative surgery
+光动力学疗法 photodynamic therapy
+氮-氧混合通气 helium oxygen mixture ventilation
+后备通气 backup ventilation
+呼气过程同步 expiratory synchrony
+呼气末负压 negative end-expiratory pressure
+呼气末屏气 end-expiratory hold
+呼气末正压 positive end-expiratory pressure
+呼吸系统引流 drainage of respiratory system
+呼吸支持技术 breathing support technique
+环甲膜穿刺 thyrocricoid puncture
+环甲膜切开术 cricothyroidotomy
+缓慢连续性超滤 slow continuous ultrafiltration
+机械通气 mechanical ventilation
+机械通气氧疗 oxygen therapy via mechanical ventilation
+家庭氧疗 home oxygen therapy
+间断停机法 intermittent discontinuing of ventilatory support
+间接设置潮气容积 indirect preset tidal volume
+间歇负压通气 intermittent negative pressure ventilation
+间歇正压通气 intermittent positive pressure ventilation
+间歇指令通气 intermittent mandatory ventilation
+介入治疗 interventional therapy
+经鼻气管插管机械通气 mechanical ventilation via nasotracheal cannula 
+经鼻罩无创正压通气 non-invasive positive ventilation via nasal mask 
+经鼻气管插管术 nasotracheal intubation
+经口气管插管 orotracheal cannula
+经口气管插管术 orotracheal intubation
+经口气管插管机械通气 mechanical ventilation via orotracheal cannula 
+经面罩无创正压通气 non-invasive positive ventilation via face mask 
+经皮穿刺肺活检术 percutaneous transthoracie needle aspiration biopsy 
+经皮扩张气管造口术 percutaneous dilatational tracheostomy
+经皮气管切开术 percutancous tracheostomy
+经皮微波凝固疗法 percutaneous microwave coagulation therapy 
+经气管插管机械通气 mechanical ventilation via tracheal cannula 
+经气管切开机械通气 mechanical ventilation via incision of tracher 
+经支气管肺活检 transbronchial lung biopsy,TBLB
+经支气管镜腔内介入治疗术 endobronchoscopic interventional therapy 
+经支气管针吸活检 transbronchial needle aspiration,TBNA
+局部化疗 local chemotherapy
+控制通气 control ventilation
+控制性肺膨胀 sustained inflation
+控制性氧疗 controlled oxygen therapy
+冷冻疗法 cryotherapy
+连续气流通气 constant flow ventilation
+连续性动-静脉血液滤过 continuous arterio-venous hemofiltration 
+连续性动-静脉血液透析 continuous arterio-venous hemodialysis 
+连续性动-静脉血液透析滤过 continuous arterio-venous hemodiafil- tration
+
+# p95
+连续性静脉-静脉血液滤过 continuous veno-venous hemofiltration 
+连续性静脉-静脉血液透析 continuous veno-venous hemodialysis
+连续性血液净化 continuous blood purification
+淋巴结穿刺术 needle biopsy of lymph node
+淋巴结细针穿刺抽吸术 fine needle aspiration of lymph node
+流量触发 flow trigger
+流量适应容积控制通气 flow-adapted volume control ventilation
+流量限制flow-limited
+流量限制时间转换 flow-limited time cycling
+盲法气管插管 blind endotracheal intubation
+流量转换 flow cycling
+免疫吸附 immunoadsorption
+免疫治疗 immunotherapy
+内镜下肺减容术 endoscopic lung volume reduction
+内源性呼气末正压 intrinsic positive end-expiratory pressure
+逆行气管插管 retrograde endotracheal intubation
+尼古丁替代疗法 nicotine replacement therapy
+脓毒症复苏集束化策略 sepsis resuscitation bundle strategy
+脓毒症集束化治疗策略 sepsis bundle strategy
+气道内支架植入术 endotracheal stent implantation
+气道压力释放通气 airway pressure release ventilation
+气管插管 endotracheal intubation 
+气管内插管术
+气管插管拔除 endotracheal extubation
+气管插管术 endotracheal intubation
+气管镜检查 tracheoscopy
+气管镜下气管异物取出术 removal of tracheal foreign body by bron- choscopic extraction
+气管镜下吸痰 sputum suction by bronchoscopy
+气管内吹气 intratracheal gas insufflation
+气管内吹氧 intratracheal insuffation of oxygen
+气管内喷射 intratracheal jet
+气管内氧疗 transtracheal oxygen therapy
+气管切开呼吸机辅助通气 tracheotomy mechanical ventilation
+气管切开术 trachcostomy
+气管损伤 tracheal trauma
+气管套管 tracheostomy cannula
+气管引流 drainage of trachea
+气管支气管异物取出术 removal of tracheobronchial foreign bodies 
+腔内近距离治疗 intracavitary brachytherapy
+去除气管套管 tracheostomy cannula extubation
+全液体通气 total liquid ventilation
+人工呼吸 artificial respiration
+人工气道 artificial airway
+人工气道机械通气 mechanical ventilation via artifical airway
+人机对抗 patient-ventilator asynchrony
+人机同步 patient-ventilator synehrony
+容积触发 volume trigger
+容积辅助-控制通气 volume assist-control ventilation
+容积辅助通气 volume assist ventilation
+容积控制间歇指令通气 volume-controlled intermittent mandatory ventilation
+容积控制通气 volume-controlled ventilation
+容积控制同步间歇指令通气 volume-controlled synchronized inter mittent mandatory ventilation
+容积控制同步间歇指令通气加压力支持通气 volume-controlled syn- chronized intermittent mandatory ventilation plus pressure support ventilation
+容积限制 volume-limited
+容积限制容积转换 volume-limited volume cycling
+容积限制时间转换 volume-limited time cycling
+容积支持通气 volume support ventilation
+容积转换 volume cycling
+神经调节辅助通气 neurally adjusted ventilatory assist
+湿化疗法 humidification therapy
+
+时间限制 time limit
+时间转换 time cycling
+适应性支持通气 adaptive support ventilation
+手术治疗 surgical treatment
+叹气样通气 sigh ventilation
+双重控制模式 dual control mode
+双相气道正压 biphasic positive airway pressure
+体外二氧化碳去除 extracorporeal carbon dioxide removal
+体位引流 postural drainage
+通气模式 ventilation mode
+通风压力 ventilation pressure
+同步 synchronize
+通气参数 ventilation parameter
+同步持续指令通气 synchronized continuous mandatory ventilation 
+同步间歇指令通气 synchronized intermittent mandatory ventilation 
+同步间歇指令通气撤机法 synchronized intermittent mandatory venti-lation weaning method
+同步间歇指令通气加压力支持通气 synchronized intermittent mandatory ventilation plus pressure support
+同步间歇指令通气加压力支持通气撤机法 synchronized intermittent mandatory ventilation plus pressure support ventilation weaning 
+同步时间 synchronic time
+完全肠外营养 total parenteral nutrition
+往返活塞泵式高频振荡通气 piston pump high frequency oscillation ventilation
+微波治疗 microwave therapy
+微气管造口术 mini-tracheostomy
+无创持续气道正压 non-invasive continuous positive airway pressure 
+无创机械通气 non-invasive mechanical ventilation
+无创呼吸机辅助通气 noninvasive ventilation
+无创正压通气 non-invasive positive ventilation
+无呼吸氧疗 non-breathing oxygen therapy
+雾化治疗 nebulization therapy
+吸呼气转换 inspiratory-expiratory cycling
+吸呼气转换同步 synchrony of inspiratory expiratory phase transition 
+吸气触发同步 inspiratory trigger synchrony
+吸气触发 inspiratory trigger
+吸气过程同步 inspiratory synchrony
+吸气末屏气 end-inspiratory hold
+吸气末正压 positive end-inspiratory pressure
+吸痰术 sputum suctioning
+纤支镜引导气管插管 fiberoptic bronchoscopy guided endotracheal intubation
+小潮气量 low tidal volume
+小潮气量机械通气 low tidal volume ventilation
+胸廓外持续负压 continuous negative external pressure
+胸腔闭式引流术 closed thoracie drainage
+胸腔穿刺术 thoracentesis
+胸腔灌洗 pleural lavage
+胸腔引流 chest drainage
+胸膜粘连术 pleurodesis
+胸腔穿刺置管术 indwelling pleural catheter,IPC
+胸腔负压闭式引流 thoracic closed drainage with negative pressure 
+胸腔置管引流术 chest tube or small-bore catheter drainage
+胸腔置管术
+血浆置换plasmapheresis
+血液灌流 hemoperfusion
+血液净化 blood purification
+血液滤过 hemofiltration
+血液透析 hemodialysis
+压力触发 pressure trigger
+压力调节容积控制通气 pressure regulated volume control ventilation
+压力放大 pressure augment
+压力辅助-控制通气 pressure assist-control ventilation
+
+# p96 
+压力辅助通气 pressure assisted ventilation
+压力控制间歇指令通气 pressure-controlled intermittent mandatory ventilation
+压力控制通气 pressure-controlled ventilation
+压力控制同步间歇指令通气 pressure-controlled synchronized inter- mittent mandatory ventilation
+压力控制同步间歇指令通气加压力支持通气 pressure-controlled syn- chronized intermittent mandatory ventilation plus pressure support ventilation 
+压力限制 pressure-limited
+压力限制流量转换 pressure-limited flow cycling
+压力限制时间转换 pressure-limited time cycling
+压力限制通气 pressure-limited ventilation
+压力限制压力转换 pressure-limited pressure cycling
+压力支持通气 pressure support ventilation
+压力支持通气撤机法 pressure support ventilation weaning
+压力转换 pressure cycling
+氩等离子体凝固术 argon plasma coagulation
+氩气刀治疗
+烟草控制 tobacco control
+延迟时间 delay time
+氧气疗法 oxygen therapy
+要素饮食 elemental diet
+液体复苏 fluid resuscitation
+液体通气 liquid ventilation
+腋窝淋巴结穿刺活检 core needle biopsy of axillary lymph nodes
+腋窝淋巴结细针穿刺 fine needle aspiration of axillary lymph nodes 
+腋窝前哨淋巴结活检 axillary sentinel lymph node biopsy
+一氧化氮吸入疗法 inhaled nitric oxide therapy
+有创呼吸机辅助通气 invasive mechanical ventilation 
+有创机械通气
+有创呼吸机辅助呼吸
+引流 drainage
+有创无创序贯通气 sequential invasive non-invasive mechanical ventilation 
+0.1秒口腔闭合压 mouth occlusion pressure at 0. Is after onset of inspi- ratory effort
+0.5秒用力呼气容积 foreed expiratory volume in half second
+25%潮气容积呼流量 tidal expiratory flow at 25% of tidal volume
+25%潮气容积呼气流量与潮气呼气峰流量比值 ratio of tidal expi- ratory flow at 25% of tidal volume to PTEF
+2秒用力呼气容积 forced expiratory volume in two seconds
+3秒用力呼气容积 forced expiratory volume in three seconds
+50%潮气容积呼气流量 tidal expiratory flow at 50% of tidal volume 
+6分钟步行试验 six-minute walk test
+6秒用力呼气容积 foreed expiratory volume in six seconds
+半乳甘露聚糖抗原试验 galactomannan antigen test
+75%潮气容积呼气流量 tidal expiratory flow at 75% of tidal volume CT 
+肺动脉造影 computed tomographic pulmonary angiography
+×射线 Xray
+B-D-葡聚糖检测 B-D-glucan test
+比气道阻力 specific airway resistance
+比顺应性 specific compliance
+闭合容积 closing volume
+闭合容积曲线 closing volume curve
+闭合容量 closing capacity
+标准肺容积轨迹 standard lung volume history
+标准缓冲碱 standard buffer base
+标准碱剩余 standard base excess
+
+预设潮气容积 presct tidal volumc
+预设呼吸频率 presct respiratory rate
+预设吸呼气时间比 preset I/E ratio
+预设吸气时间分数 preset fractional inspiratory time
+允许性低热量策略 permissibility low calorie policy
+早期目标指导治疗 early goal-directed therapy
+诊断性手术 diagnostic surgery
+镇痛与镇静 analgesia and sedation
+正压通气 positive pressure ventilation
+正压通气连接 connection of positive pressure ventilation
+支气管动脉栓塞术 bronchial artery embolization
+支气管肺泡灌洗 bronchoalveolar lavage,BAL
+支气管镜检查 bronchoscopy
+支气管内注药 endobronchial injection
+支气管热成形术 bronchial thermoplasty
+直接肺泡通气 direct alveolar ventilation
+直接设置潮气容积 direct preset tidal volume
+直接停机法 direct discontinuing ventilatory support
+指令分钟通气 mandatory minute ventilation
+中等水平呼气末正压 moderate level positive end-expiratory pressure 
+中浓度氧疗 moderate concentration oxygen therapy
+自动持续气道正压 auto-continuous positive airway pressure
+自动导管补偿 automatic tube compensation
+自动气流 autoflow
+自然呼吸 general breathing
+自主触发 autonomous trigger
+自主呼吸 spontancous breathing 
+自主限制 spontaneous-limited
+自主转换 spontaneous cycling
+综合治疗 comprehensive treatment
+最佳呼气末正压 optimal positive end-expiratory pressure
+标准碳酸盐 standard carbonate
+表面张力 surface tension
+波形图监测 waveform monitoring
+博格评分 Borg scale
+补呼气量 expiratory reserve volume
+补吸气量 inspiratory reserve volume
+残气量 residual volume
+残总气量百分比 ratio of residual volume to total lung capacity
+侧位肺功能 lateral position pulmonary function
+潮气呼气峰流量 peak tidal expiratory flow
+潮气呼吸流量-容积曲线 tidal breathing flow-volume curve
+潮气气量 tidal volume
+触发时间 triggering time
+磁共振成像 magnetic resonance imaging
+达峰容积 volume at peak tidal expiratory flow
+达峰容积比 ratio of volume at peak tidal expiratory flow to expiratory tidal volume
+达峰时间 time to peak tidal expiratory flow. TPTEF
+达峰时间比 ratio of time to peak tidal expiratory flow to total expira- tory time,TPTEF/TE
+大气二氧化碳分压 partial pressure of carbon dioxide in atmosphere 
+大气二氧化碳浓度 fractional concentration of carbon dioxide in atmo- sphere
+代谢当量 metabolic equivalent
+
+# p97
+蛋白质呼吸商 respiratory quotient of protein
+氮浓度Ⅲ相斜率 Ⅲ-phase slope of nitrogen coneentration
+道格拉斯气袋法 Dagalas bag method
+等二氧化碳过度通气激发试验 iso-capnic hyperventilation provocation test
+等容积压力-流量曲线 isovolume pressure-flow curve
+等渗压isotonicity
+低渗压 hypoosmolality
+低位拐点 lower inflection point
+低位拐点压力 pressure of lower inflection point
+低位拐点容积 volume of lower inflection point
+低位平坦段 lower flat part
+低氧激发试验 hypoxia challenge test
+低氧通气应答 hypoxic ventilatory response
+第1秒用力呼气容积下降（20%激发剂量） provocative dose of bronchoconstrictor trigger which causes a fall of 20% in FEV,
+第1秒用力呼气容积下降（20%激发浓度） provocative concentration of bronchosonstrictor trigger needed to cause a 20% fall in FEV,
+第1秒用力呼容积 forced expiratory volume in one second
+电子支气管镜 electronic bronchoscope
+动脉-混合静脉血氧含量差 arterio-mixed venous oxygen content difference
+动脉-静脉血氧含量差 arterio-venous oxygen content difference
+动脉血二氧化碳分压 partial pressure of carbon dioxide in arterial blood
+动脉血气 arterial blood gas
+动脉血气分析 arterial blood gas analysis
+动脉血气体总压 total pressure of gas in arterial blood
+动脉血酮体比 arterial ketone body ratio
+动脉血氧饱和度 arterial oxygen saturation
+动脉血氧分压 partial pressure of arterial oxygen
+动脉血氧含量 arterial oxygen content
+动脉血氧运输量 oxygen delivery in arterial blood
+动态肺顺应性 dynamic lung compliance
+动态呼吸环 dynamic respiratory loop
+动态呼吸系统顺应性 dynamic compliance of respiratory system 
+动态顺应性 dynamic compliance
+动态顺应性 20 dynamic lung compliance at 20 times per minute of respiratory frequency
+动态顺应性 40 dynamic lung compliance at 40 times per minute of respiratory frequency
+动态顺应性 60 dynamic lung compliance at 60 times per minute of respiratory frequency
+动态胸廓顺应性 dynamic chest wall compliance
+多导睡眠图 polysomnography
+多器官功能障碍评分 multiple organs dysfunction score
+二氧化碳波形图 capnogram
+二氧化碳产生量 carbon dioxide output
+二氧化碳解离曲线 carbon dioxide dissociation curve
+氧化碳排出量 carbon dioxide discharge
+二氧化碳通气当量 ventilatory equivalent for carbon dioxide
+非蛋白呼吸商 non-protein respiratory quotient
+非频率依赖性动态顺应性 non-frequency dependence of dynamic compliance
+非碳酸盐缓冲碱 buffer base except bicarbonate
+非特异性支气管激发试验 non specifie bronchial provocation test 
+肺动脉平均压 mean pulmonary artery pressure
+肺动脉收缩压 pulmonary artery systolie pressure
+肺动脉舒张压 pulmonary artery diastolic pressure
+肺动脉楔压 pulmonary artery wedge pressure
+肺动脉压 pulmonary artery pressure
+肺二氧化碳弥散量 diffusion capacity of carbon dioxide of lung 
+肺功能 pulmonary function
+肺功能检查 pulmonary function test
+肺功能检查仪 pulmonary function test apparatus
+
+肺功能下降 reduced lung function
+肺功能障碍
+肺惯性阻力 lung inertia resistance
+肺灌注显像 pulmonary perfusion imaging
+肺活量 vital capacity
+肺间质负压 pulmonary interstitial negative pressure
+肺间质压 pulmonary interstitial pressure
+肺静脉压 pulmonary venous pressure
+肺量计法 spirometry
+肺毛细血管静水压 pulmonary capillary hydrostatic pressure
+肺毛细血管跨壁压 pulmonary capillary transmural pressure
+肺毛细血管临界开放压 pulmonary capillary critical opening pressure 
+肺毛细血管血氧饱和度 oxygen saturation in pulmonary capillary blood 
+肺毛细血管血氧分压 pulmonary capillary partial pressure of oxygen 
+肺毛细血管血氧含量 oxygen content in pulmonary capillary blood 
+肺弥散量 diffusion capacity of lung
+肺泡表面张力 alveolar surface tension
+肺泡-动脉血氧分压差 alveolar-artery oxygen partial pressure gradient 
+肺泡气二氧化碳分压 partial pressure of carbon dioxide in alveolar gas 
+肺泡气二氧化碳浓度 fractional concentration of carbon dioxide in alveolar gas
+肺泡通量 alveolar ventilation volume
+肺泡通气量-动脉血二氧化碳分压关系曲线 alvcolar ventilation- partial pressure of carbon dioxide in arterial blood curve
+肺泡压 alveolar pressure
+肺泡氧分压 alveolar oxygen partial pressure
+肺泡氧浓度 fractional concentration of alveolar oxygen
+肺顺应性 lung compliance
+肺弹性阻力 lung elastance
+肺通气功能障碍 pulmonary ventilation dysfunction
+肺换气功能减低
+肺通气显像 lung ventilation imaging
+肺血管内压 intrapulmonary blood vessel pressure
+肺血管阻力 pulmonary vascular resistance
+肺血管外压力 pressure outside pulmonary blood vessel
+肺血流量 pulmonary blood flow
+肺血容积 pulmonary blood volume
+肺压力-容积曲线 pressure-volume curve of lung
+肺氧弥散量 diffusion capacity of oxygen of lung
+肺一氧化碳弥散量 diffusion capacity of carbon monoxide of lung 
+肺脏介入技术 interventional pulmonary technique
+肺总量 total lung capacity
+肺阻力 lung resistance
+肺组织黏性阻力 lung tissue viscous resistance
+分侧肺功能 separate pulmonary function
+分次肺活量 fractional vital capacity
+高二氧化碳通气应答 hypercapnic ventilatory response
+高乳酸时间 lactime
+高渗盐水激发试验 hypertonic saline provocation test
+高位拐点 upper inflection point, high inflection point
+高位拐点容积 volume of upper inflection point
+高位拐点压力 pressure of upper inflection point
+高位平坦段 upper flat part
+格拉斯哥昏迷量表 Glasgow coma scale
+膈肌耐受时间 diaphragmatic muscle endurance time
+膈肌肌电图 diaphragmatic electromyogram,diaphragmatic EMG 
+膈肌张力时间指数 diaphragmatic tension-time index
+功能残气量 functional residual capacity
+功能残气量肺总量百分比 ratio of functional residual volume to total lung capacity
+功能性血流动力学监测 functional hemodynamic monitoring
+氦氧流量-容积曲线 maximal expiratory flow-volume curve with heliox mixture
+呼气潮气容积 tidal volume.expiratory tidal volume
+呼气负压技术 negative expiratory pressure
+
+# p98
+呼气流量-容积曲线 expiratory flow-volume curve
+呼气末二氧化碳分压 partial pressure of end-tidal carbon dioxide
+呼气末二氧化碳浓度 fractional concentration of end-tidal carbon dioxide
+呼气末肺容量 end-expiratory lung volume
+呼气末氧分压 partial pressure of oxygen in end-tidal gas
+呼气末氧浓度 fractional concentration of oxygen in end-tidal gas
+呼气时间 expiratory time
+呼气相气道阻力 airway resistance at expiratory phase
+呼气相时间 expiratory phase time
+呼气相压力 expiratory positive airway pressure
+呼气压力坡度 expiratory pressure slope
+呼气中期流量 mid-expiratory flow
+呼吸波形 respiratory waveform
+呼吸储备 breathing reserve
+呼吸功 work of breathing
+呼吸困难指数 dyspnea index
+呼吸气体交换率 respiratory exchange ratio
+呼吸商 respiratory quotient
+呼吸系统弹性阻力 respiratory elastance
+呼吸系统动态阻力 respiratory dynamic resistance
+呼吸系统惯性阻力 respiratory inertial resistance
+呼吸系统静态阻力 respiratory static resistance
+呼吸系统黏性阻力 respiratory viscous resistance
+呼吸系统顺应性 respiratory system compliance
+呼吸系统压力-容积曲线 pressure-volume curve of respiratory system 
+呼吸形式 breathing pattem
+呼吸指数 respiratory index
+呼吸周期 respiratory cycle
+呼吸总阻抗 impedance
+化学结合二氧化碳 bound carbon dioxide
+缓冲碱 buffer base
+混合呼出气二氧化碳分压 partial pressure of carbon dioxide in mixed expired gas
+混合呼出气二氧化碳浓度 fractional concentration of carbon dioxide in mixed expired gas
+混合呼出气氧分压 partial pressure of oxygen in mixed expired gas 
+混合呼出气氧浓度 fractional concentration of oxygen in mixed expired gas 
+混合呼吸商 respiratory quotient of mixed food
+混合静脉血氧饱和度 oxygen saturation in mixed venous blood
+混合静脉血氧分压 partial pressure of oxygen in mixed venous blood 
+混合静脉血氧含量 oxygen content in mixed venous blood
+混合室法 mixing-bag method
+机械通气监测 monitoring of mechanical ventilation
+机械通气频率 mechanical ventilation frequency
+基础肺容积 basal lung volume
+基础肺容量 basal lung capacity
+急性生理学和慢性健康状况评价 acute physiology and chronic health evaluation health evaluation Ⅳ
+计算机体层摄影 computed tomography
+家庭睡眠呼吸监测 home sleep apnea test
+监测潮气容积 monitoring tidal volume
+简明急性生理学评分 simplified acute physiology score
+碱剩余 base excess
+间接测定肺容量 indirectly measured lung volume
+胶体渗透压 colloid osmotic pressure
+
+
+阶梯试验 step exercise
+结构参数图 structural paramcter diagram
+结合氧 combined oxygen
+结核菌素皮内试验结果异常 abnormal result of Mantoux test
+结核菌素试验 tuberculin test
+经皮穿刺肺活检术 percutaneous lung biopsy
+经皮动脉血氧饱和度 percutaneous arterial oxygen saturation
+经皮动脉血氧分压 percutaneous arterial oxygen partial pressure
+经胸壁针吸活检术 transthoracic needle aspiration biopsy
+经支气管镜肺活检术 transbronchial lung biopsy
+支气管镜下肺组织活检
+经支气管镜活检术 transbronchial biopsy
+经支气管镜腔内超声 endobronchial ultrasonography
+晶体渗透压 crystal osmotic pressure
+静动脉血分流率 ratio of shunted blood to total perfusion
+经支气管镜针吸活检术 transbronchial needle aspiration
+静脉血氧分压 partial pressure of oxygen in venous blood
+静脉血氧饱和度 venous oxygen saturation
+静脉血氧含量 venous oxygen content
+静态肺顺应性 static lung compliance
+静态呼吸系统顺应性 static compliance of respiratory system
+静态顺应性 static compliance
+静态胸廓顺应性 static chest wall compliance
+静息肺血管张力 resting pulmonary vasomotor tone
+静息肺血管阻力 resting pulmonary vascular resistance
+静息每分钟通气量 minute ventilation at rest
+静息血管张力 resting vasomotor tone
+开放式氦稀释法 open helium dilution method
+开放式氦稀释法开重复呼吸法 open helium dilution method-rebreathing method
+开放式氮稀释法开单次呼吸法 open helium dilution method-single breath method
+可逆性气流受限 reversible airflow limitation
+跨壁压 transmural pressure
+跨肺压 transpulmonary pressure
+跨膈压 transdiaphragmatic pressure
+跨气道压 transairway pressure
+跨胸壁压 transchest wall pressure
+跨胸压 transthoracic pressure
+临床肺部感染评分 clinical pulmonary infection score
+流量波形 flow waveform
+流量计法 flowmetery
+流量监测 traffic monitoring, flow monitoring
+流量-容积曲线 flow-volume curve
+流量受限指数 limited-flow index
+流量型体积描记仪 integrated-flow body plethysmograph
+六氟化硫稀释法 sulfur hexafluoride dilution
+脉冲振荡技术 impulse oscillometry system
+毛细血管静水压 capillary hydrostatic pressure
+毛细血管跨壁压 transmural pressure of capillary
+毛细血管血氧饱和度 oxygen saturation in capillary blood
+毛细血管血氧分压 partial pressure of oxygen in capillary blood
+毛细血管血氧含量 oxygen content in capillary blood
+每搏氧耗量 oxygen pulse
+流量流容积波形 low-volume waveform
+每千克体重氧耗量 oxygen consumption per kg body weight
+每升肺泡容积的一氧化碳弥散量 diffusion capacity for carbon mon- oxide per liter of alveolar volume
+弥散系数 diffusion coefficient
+密闭式氦稀释法-单次呼吸法 airtight nitrogen dilution-single breath method
+密闭式氮稀释法 airtight nitrogen dilution
+密闭式氮稀释法-重复呼吸法 airtight nitrogen dilution-rebreathing method
+
+
+# p99
+密闭式氦稀释法 airtight helium dilution method
+密闭式氦稀释法-重复呼吸法 airtight helium dilution-rebreathing method
+密闭式氦稀释法-单次呼吸法 airtight helium dilution-single breath method
+摩擦阻力 frictional resistance
+脓毒症相关性器官功能衰竭评价 sepsis-related organ failure assessment 
+频率依赖性动态顺应性 frequency dependence of dynamic compliance 
+频谱分析图 speetroanalytic diagram
+频谱微分均值图 intrabreath diagram
+平均气道压 mean airway pressure
+平均吸气流量 mean inspiratory flow
+平台压 plateau pressure
+屏气时间 breath holding time
+屏气试验 breath holding test
+剖胸探查 thoracic exploration
+气道传导率 airway conductance
+气道弹性阻力 airway elastance
+气道二氧化碳分压 partial pressure of carbon dioxide in airway
+气道二氧化碳浓度 fractional concentration of carbon dioxide in airway 
+气道反应性 airway responsiveness
+气道峰压 peak pressure
+气道峰压与平台压差 difference between peak airway pressure and plateau pressure
+气道高反应性 airway hyperresponsiveness
+气道惯性阻力 airway inertial resistance
+气道顺应性 airway compliance
+气道压 airway pressure
+气道氧分压 partial pressure of oxygen in airway
+气道氧浓度 fractional concentration of oxygen in airway
+气道异物 airway foreign bodies
+气道阻力 airway resistance
+气流传导比值 specific airway conductance
+气流传导比值下降35%激发剂量 provocative dose of PAF causing a 35% fall in sGaw
+气流传导比值下降35%激发浓度 provocative concentration of PAF causing a 35% fall in sGaw
+气流阻力呈流量依赖性 flow dependency of airflow resistance
+气流阻力呈面积依赖性 area dependency of airflow resistance
+气囊漏气试验 cuff leak trial
+气体分析法 air-analysis method
+气速指数 air velocity index
+气体陷闭容积 air trapping volume
+气体弥散速率 gas diffusion rate
+器官功能障碍逻辑性评分 logistie organ dysfunction score
+驱动压 driving pressure
+全血碱剩余 blood base excess
+容积波形 volume waveform
+容积监测 volume monitoring
+溶解二氧化碳 dissolved carbon dioxide
+溶解系数 solubility coefficient
+溶解氧 dissolved oxyger
+乳酸清除率 clearance of lactic acid
+摄氧量 oxygen uptake
+深吸气量 inspiratory capacity
+渗出液 exudate
+渗透压 osmotic pressure
+时间用力呼气容积 forced expiratory volume in certain second
+实际呼吸频率 actual breathing frequency
+实际缓冲碱 actual buffer base
+实际碱剩余 actual base excess
+实际碳酸氢盐 actual bicarbonate
+实际吸呼气时间比 actual I/E ratio
+
+实际吸气时间分数 actual fractional inspiratory time
+食管内压 esophageal pressure
+输出潮气容积 efferent tidal volume
+顺应性 compliance
+松弛压 relaxation pressure
+送气时间 insufflation time
+弹性阻力 elastic resistance
+碳水化合物呼吸商 respiratory quotient of carbohydrate
+碳酸盐 carbonate
+碳酸氢盐 bicarbonate
+体积描记法 body plethysmography
+碳酸盐缓冲碱 bicarbonate buffer base
+特定呼吸频率顺应性 dynamic lung compliance at certain respiratory frequency
+特异性支气管激发试验 specific bronchial provocation test
+体循环压力 systemic blood pressure
+通气储量 reserve of ventilation
+通气储量百分比 percentage of reserve of ventilation
+通气失控 ventilation runaway
+通气限制 ventilation limit
+通气血流比例 ventilation perfusion ratio
+通气应答 ventilatory response
+外周阻力 peripheral resistance
+微型混合室法 miniature mixed room method
+未测定阴离子 undetermined anion
+未测定阳离子 undetermined cation
+无创脉搏氧饱和度法 non-invasive pulse oximetry
+无混合室法 non-mixed room method
+无效腔气量与潮气量比值 ratio of dead space to tidal volume
+无效腔通气量 dead space ventilation
+无氧阈 anaerobic threshold
+吸纯氧时的肺泡-动脉血氧分压差 alveolar-artery oxygen partial pressure gradient when breathing oxygen
+吸呼气时间比 inspiratory to expiratory ratio
+吸空气时的肺泡-动脉血氧分压差 alveolar-artery oxygen partial pressure gradient when breathing air
+吸气潮气容积 inspiratory tidal volume
+吸气末肺容量 end-inspiratory volume
+吸气肺活量 inspiratory vital capacity
+吸气峰流量 peak inspiratory flow
+吸气流量 inspiratory flow
+吸气气流受限 inspiratory flow limitation
+吸气时间 inspiratory time
+吸气时间分数 fractional inspiratory time
+吸气相气道阻力 airway resistance at inspiratory phase
+吸气相时间 inspiratory phase time
+吸气相压力 inspiratory positive airway pressure
+吸气压力坡度 inspiratory pressure slope
+吸入气二氧化碳分压 partial pressure of carbon dioxide in inspired gas 
+吸入气二氧化碳浓度 fractional concentration of carbon dioxide in inspired gas
+吸入气氧分压 partial pressure of inspired oxygen
+吸入气氧流量 inspired oxygen flow
+吸入气氧浓度 fractional concentration of inspired oxygen
+细胞损伤评分 cellular injury score
+细胞外液碱剩余 extracellular fluid base excess
+纤维支气管镜 flexible bronchoscope
+纤维支气管镜检查 fiberoptic bronchoscopy
+线性功率递增试验 ramp test
+小混合室法 small mixed room method
+心输出量 cardiac output
+胸腔负压 intrapleural negative pressure
+胸部CT检查 chest computed tomography
+胸部X线检查 chest X-ray
+
+# p100
+胸部超声检查 chest ultrasound
+胸部磁共振成像 chest magnctie resonance imaging
+胸廓弹性阻力 chest wall elastance
+胸廓惯性阻力 chest wall inertial resistance
+胸廓黏性阻力 chest wall viscous resistance
+胸廓顺应性 chest wall compliance
+胸廓压力-容积曲线 pressure-volume curve of chest wall
+胸膜活检术 pleural biopsy
+胸膜腔穿刺术 thoracentesis
+胸腔穿刺
+胸膜腔内压 intrapleural pressure
+胸内气体容量 thoracie gas volume
+胸腔镜检查 thoracoscopy
+血管血压 blood pressure of blood vessel
+血管张力 vasomotor tone
+血红蛋白氧饱和度 hemoglobin oxygen saturation
+血红蛋白氧含量 hemoglobin oxygen content
+血浆二氧化碳总量 total plasma carbon dioxide content
+血浆渗透压间隙 plasma osmotic pressure gap
+血流量 blood flow
+血气 blood gas
+血气分析 blood gas analysis
+血容积 blood volume
+血氧饱和度 blood oxygen saturation
+血氧饱和度50%时的氧分压 partial pressure of oxygen at 50% hemoglobin saturation
+血氧含量 blood oxygen content
+血氧容量 blood oxygen capacity
+压力波形 pressure waveform
+压力监测 pressure monitoring
+压力坡度 pressure gradient
+压力-容积波形 pressure-vessel wave
+压力容积波形 pressure-vessel wave
+压力型体积描记仪 variable-pressure constant-volume body plethys- mograph
+压缩容积指数 compressible volume factor
+氧分压 partial pressure of oxygen
+氧分压梯度分布 oxygen partial pressure graded distribution
+氧耗量 oxygen consumption
+氧合指数 oxygenation index
+氧解离曲线 oxygen dissociation curve
+氧通气当量 ventilatory equivalent for oxygen
+一口气接一口气法 breath by breath method
+一秒率 forced expiratory volume in one second/forced vital capacity 
+一氧化碳弥散量测定 CO diffusion capacity test
+阴离子隙 anion gap
+隐球菌抗原乳胶凝集试验 cryptococcal antigen latex agglutination test 
+荧光支气管镜 fluorescence bronchoscopy
+硬质支气管镜 rigid bronchoscope
+用力肺活量 forced vital capacity
+用力呼出25%肺活量的呼气流量 forced expiratory flow at 25% of FVC exhaled
+用力呼出50%肺活量的呼气流量 foreed expiratory flow at 50% of FVC exhaled
+用力呼出50%肺活量的呼气流量与吸气流量比值 forced expiratory flow to forced inspiratory flow at 50 percent vital capacity
+用力呼出75%肺活量的呼气流量 forced expiratory flow at 75% of FVC exhaled
+用力吸气肺活量 forced inspiratory vital capacity
+用力依赖部分 effort-dependent part
+有效顺应性 effective compliance
+右房舒张末压 right atrial end-diastolic pressure
+右心室跨壁压 right ventricular transmural pressure
+运动负荷 exercise load
+运动激发试验 exercising provocation test
+运动心肺功能测试 cardiopulmonary exercise test
+诊断性胸腔穿刺术 diagnostic thoracentesis
+蒸馏水或高渗盐水激发试验 distilled water or hypertonic saline provocation test
+蒸馏水激发试验 distilled water provocation test
+正电子发射体层成像 positron emission tomography
+支气管肺泡灌洗术 bronchoalveolar lavage
+支气管肺泡灌洗液 bronchoalveolar lavage fluid
+支气管激发试验 bronchoprovocation testing
+支气管镜检查术 bronchoscopy
+自主呼吸试验 spontaneous breathing test
+阻抗潮气呼吸图 resistance-time diagram
+支气管舒张试验 bronchodilation testing
+脂肪呼吸商 respiratory quotient of fat
+直接测定肺容量 directly measured lung volume
+治疗性胸腔穿刺术 therapeutic thoracentesis
+中心静脉压 central venous pressure
+中心阻力 central resistance
+总呼气末压力 total end expiratory pressure
+总呼吸频率 total respiratory frequency
+纵隔镜检查mediastinoscopy
+纵隔镜检查术 mediastinoscopy
+阻抗容积图 resistance-volume diagram
+阻力时间 resistant time
+最大二氧化碳产生量 maximal carbon dioxide output
+最大二氧化碳排出量 maximal carbon dioxide discharge
+最大咳嗽流量 peak cough expiratory flow
+最大呼气流量 maximal expiratory flow
+最大呼气流量-容积曲线 maximal expiratory flow-volume curve 
+最大呼气压 maximal expiratory pressure
+最大跨膈压 maximal transdiaphragmatic pressure
+最大流量-容积曲线 maximal flow-volume curve
+最大每千克体重氧耗量 maximal oxygen consumption per kg body weight
+最大平台压 maximum plateau pressure
+最大吸气流量 peak inspiratory flow
+最大吸气流量-容积曲线 maximal inspiratory flow-volume curve 
+最大通气量计算值 calculated value of maximal voluntary ventilation
+最大吸气压 maximal inspiratory pressure
+最大心率储备 maximal heart rate reserve
+最大氧耗量 maximal oxygen consumption
+最大运动通气量 maximal exercise ventilation
+最大自主通气量 maximal voluntary ventilation
+最低平台压 minimal plateau pressure
+左房舒张末压 left atrial end-diastolic pressure
+左心室跨壁压 left ventricular transmural pressure
