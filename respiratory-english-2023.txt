@@ -1,0 +1,2074 @@
+type Ⅰ respiratory failure
+type Ⅱ respiratory failure
+tumor node metastasis elassification,TNM
+α-antitrypsin deficieney
+amebic abscess of lung
+aspirin-induced asthma
+AIDS complicated with tuberculosis
+aminophylline drug reaction
+Budd-Chiari syndrome
+Budd-Chiari syndrome
+paracicatricial emphysema
+paracicatricial emphysema
+encapsulated pleural effusion
+Mycobacterium intracellular infection
+Acinetobacter baumanii pneumonia
+passive smoking
+pump failure
+rhinitis
+closed injury
+closed pneumothorax
+bronchiolitis obliterans
+obliterative bronchiolitis syndrome
+allergic airway inflammation
+allergic rhinitis
+allergic rhinitis
+allergic cough,atopic cough
+allergie bronchopulmonary aspergillosis
+ABPA
+allergie bronchopulmonary aspergillosis
+allergie bronchopulmonary aspergillosis
+viral pneumonia
+pathological shunt
+acinetobacter pneumonia
+acinetobacter pneumonia
+restless leg syndrome
+incomplete reversible airflow limitation
+enterogenic infection
+enterogenous cyst
+obsolete pulmonary tuberculosis
+obsolete pleural tuberculosis
+obsolete bronchial lymphoid tubereulosis
+adult hyaline membrane disease
+late asthmatie reaction
+blast injury syndrome
+overlap syndrome
+exit-site infection
+penetrating wound
+asthmatic bronchopneumonia
+traumatic diaphragmatic hernia
+traumatic pulmonary edema
+traumatic acroembolism
+traumatic pneumothorax
+traumatic wet lungu
+traumatic pleural effusion
+open hemothorax
+open hemothorax
+traumatic fat embolism
+traumatic asphyxia
+submassive pulmonary embolism
+brittle asthma
+cannabinosis
+massive pulmonary embolism
+bullous emphysema
+obstruction of large airway
+collapse of large airway
+atmospheric hypoxia
+large cell carcinoma
+lobar pneumonia
+compensating pulmonary hyperinflation
+compensatory emphysema
+compensatory respiratory acidosis
+compensatory alkalosis
+compensatory anti-inflammatory response syndrome
+compensatory acidosis
+metabolic alkalosis
+metabolic acidosis
+respiratory alkalosis and metabolic acidosis
+pocket infection
+unilateral emphysema
+unilateral paralysis of diaphragm
+unilateral hyperlucent lung syndrome
+uncomplicated parapneumonic pleural effusion
+primary snoring
+herpes simplex virus pneumonia
+cholesterol pneumonia
+cholesterol pleurisy
+bile pleuritis
+protcin malnutrition
+catheter colonization
+catheter-related venous thrombosis
+catheter-related bloodstream infection,CRBSI
+isovolemic hyponatremia
+isotonic dehydration
+hypoalbumincmia
+hypoproteinemia
+hypocalcemia
+hypokalemic alkalosis
+hypopotassemia
+hypophosphatemia
+hypochloremic alkalosis
+hyponatremia and hypochloremia
+hyponatremia
+low-frequency fatigue
+hypovolemic hyponatremia
+hypovolemic hypernatremia
+hypotonic dehydration
+hypocapnia
+hypovolemic shock
+hypobaric hypoxia
+hypoxic deacclimatization
+hypoxemia
+pulmonary hypertension associated with hypoxia
+hypoxemic respiratory failure
+hypotonic hypoxia
+amyloidosis
+pulmonary arterial hypertension
+dynamic pulmonary hypcrinflation
+contralateral mediastinal lymph node metastasis
+blunt trauma
+multidrug-resistant Acinetobacter bau-manii pneumonia
+multiple drug resistance (MDR) bacterial infection
+interstitial lung disease in polymyositis
+multiple pleural nodules
+polymyositis with interstitial pulmonary fibrosis
+multiple organ dysfunction syndrome
+multi-factor grading system
+malignant pleural nodules
+malignant pleural effusion, MPE
+childhood asthma
+narcolepsy
+paradoxical alkaline urine
+paradoxical acidic urine
+reactive airway dysfunction syndrome
+radiative pulmonary fibrosis
+radiation pncumonia
+nonallcrgic asthma
+atypical pneumonia
+nonpneumonic legionnaires disease
+nontuberculous mycobacterium pulmonary disease
+non filarial chylothorax
+nonspecific interstitial pneumonia,NSIP
+non-small cell lung canccr,NSCLC
+non cardiogenic pulmonary cdema
+nonthrombotic pulmonary embolism
+obesity hypoventilation syndrome
+Pickwichian syndrome
+interventional chemotherapy of lung cancer
+interventional treatment of lung cancer
+scar carcinoma of lung
+pneumocystis pncumonia,PCP
+lung disease
+atelectasis
+pulmonary infection of multiple dnig-resistant bacterial
+pulmonary infection
+pulmonary infcction with atclectasis
+pulmonary infection with hemoptysis
+pulmonary infection with pleural effusion
+lung infection and respiratory failure
+pulmonary sarcoidosis
+lung cavity
+haemophilus influenzae infection in the lung
+granulomatous lesion of the lung
+pulmonary inflammatory pseudotumor
+pulmonary shadow
+pulmonary mycosis
+pncumoconiosis
+pulmonary haemorrhage
+Goodpasture syndrome
+hemorrhagic pulmonary leptospirosis
+pulmonary contusion
+pulmonary hamartoma
+congenital pulmonary hamartoma
+bullae
+bullae rupture
+pulmonary amyloidosis
+pulmonary artcriovcnous fistula
+lung artery occlusion
+agenesis of pulmonary artery
+hypoplasia of pulmonary artery
+pulmonary hypertension
+pulmonary artery aneurysm
+malignant tumor of lung
+pulmonary hypoplasia
+pulmonary dysmaturity
+pulmonary actinomycosis
+pulmonary paracoccidioidomycosis
+pulmonary sequestration
+pulmonary infarction
+pulmonary toxoplasmosis
+pulmonary incompetence
+ancylostomiasis of lung
+solitary fibrous tumor of the lung
+pulmonary hyperinflation
+pulmonary hemosidcrosis
+thick wall cavity of lung
+pulmonary chemodectoma
+necrosis of lung
+pulmonary synovial sarcoma
+decreased pulmonary ventilation capacity
+pulmonary ascariasis
+decrcased vital capacity
+pulmonary echinococcosis
+secondary malignant neoplasm of lung
+meta-static tumor
+parasitic disease of lung
+pulmonary pscudolymphoma
+pulmonary interstitial fibrosis (post-inflamma-tion)
+pulmonary fibrosis and infection
+interstitial lung disease
+combined pulmonary fibrosis andcmphyscma
+pulmonary fibrosis with infection
+shear stress induced lung injury
+borderline tumor of lung
+pulmonary tuberculosis
+tuberculosis with pleural effusion
+tuberculosis and hemoptysis
+pulmonary tuberculosis
+new smear positivc pulmonary tuberculosis
+pulmonary tuberculosis recurrence
+active pulmonary tuberculosis
+pulmonary tuberculoma
+pulmonary vein occlusion
+over-distention induced lung injury
+pulmonary Langerhans cell histiocytosis
+pulmonary carcinoid
+benign tumor of lung
+laceration of lung
+pulmonary lymphangioleiomyomatosis,PLAM
+pulmonary lymphomatoid granulomatosis
+pulmonary mucormycosis
+pulmonary capillary hemangiomatosis
+syphilitic lung
+malignant tumor in pulmonary hilum
+calcification of hilar lymph node
+secondary malignant tumor of hilar lymph sis (confirmed by bacteriology and histology)
+hilar lymphonode tuberculosis
+hilar lymphadenitis
+hilar lymph node enlargement
+pulmonary hilar enlargement
+decrcascd diffusion function
+pulmonary cysticcrcosis
+cystic lung disease
+cystic lung diseases
+pulmonary cystic fibrosis
+lung cyst
+pulmonary cyst with infection
+pulmonary lymph nodes metastasis
+pulmonary ground glass nodules
+forcign body in lung
+extranodal marginal zone cell lymphoma of lung mucosa-associated lymphoid tissue
+myxoma of lung
+pulmonary candidiasis
+lung absccss
+pulmonary nocardiosis
+alveolar haemorrhage syndrome,AHS
+pulmonary alveolar microlithiasis
+alveolar proteinosis
+alveolar hypoventilation syndrome
+pneumatocelc
+pulmonary berylliosis
+pulmonary barotrauma
+cmphysema
+emphysema with bullae
+coin lesion of lung
+pulmonary aspergillosis
+aspergilloma
+pulmonary agencsis
+lung volutrauma
+Lung sarcoma
+pancoast tumor
+pulmonary epithelioid hemangioendothelioma
+pulmonary epithelioid hemangioendothe- lioma, PEH
+pulmonary biotrauma
+consolidation of lung
+pulmonary cosinophilia
+lung failure
+pulmonary embolism
+pulmonary cdcma
+post-antithrombotic pulmonary embolism
+pulmonary siderosis
+pulmonary ventilation dysfunction
+normal pulmonary ventilation function
+lung atelectrauma
+paragonimiasis
+infrapulmonary cffusion
+fibroma of lung
+lung small vasculitis
+pulmonary sporotrichosis
+pulmonary tularaemia
+pulmonary schistosomiasis
+pulmonary encephalopathy
+pulmonary vasculitis
+pulmonary thrombocmbolism
+hematoma of lung
+pulmonary blastomycosis
+pneumonia
+pneumonia and septic shock
+Klebsiclla pncumoniac pncumonia
+Streptococcal pneumoniac pneumonia
+parapneumonic pleural effusion
+pulmonary inflammatory pseudotumor
+chlamydia pneumoniae pneumonia
+mycoplasma pncumoniac pncumonia
+lung transplantation rejection
+lung transplantation failure
+pulmonary cryptococcosis
+pulmonary sclerosis
+primary complex of tuberculosis
+pulmonary lymphoma
+cor pulmonale
+dysfunction of cor pulmonale
+pulmonary mycosis
+abnormal pulmonary diagnostic imaging
+middlc lobc syndrome
+pulmonary metastatic malignancy melanomatosis
+metastatic tumor of lung
+pulmonary histoplasmosis
+lung biopsy
+rubella pneumonia
+complicated parapneumonic effusion
+reexpansion pulmonary edema
+relapsing polychondritis,RP
+bacillus parapertussis whooping cough
+parainfluenza virus pneumonia
+parainfluenza virus acute bronchitis
+paraneoplastic syndrome
+rhinitis caseosa.caseous rhinitis
+caseous pneumonia, cascous tuberculosis
+rhinitis sicca
+pulmonary disease associated with primarySjögren syndrome
+hepatic and biliary branchial fistula
+hepatopulmonary syndrome
+hepatopleural fistula
+postinfectious cough
+post-infection obliterative bronchiolitis
+post-infection cough
+high anion gap (AG) metabolic acidosis
+respiratory failure with high lung volume
+high altitude adaptation
+hyperkalemic acidosis
+hyperpotassemia
+hyperphosphatemia
+hyperchloremie acidosis
+hyperchloremia
+hypermagnesemia
+high frequency fatigue
+hypervolemie hyponatremia
+hypervolemic hypernatremia
+hyperlactacidemia
+hyperosmotic coma
+hyperosmotic anhydration
+hypercapnia
+posthypercapnic alkalosis
+hypercapnic respiratory failure
+methemoglobinemia
+hyperventilation syndrome
+high pressure nervous syndrome,HPNS
+high-altitude pulmonary edema,HAPE
+plateau hypoxia
+diaphragmatic paralysis
+tumor of diaphragm
+secondary malignant tumor of diaphragm
+eventration of diaphragm
+absence of diaphragm
+diaphragmatic hernia
+secondary malignant tumor of superior phrenic lymph node
+subphrenic infection
+subphrenic tumor
+functional shunt
+isolated tracheal tuberculosis
+isolated tracheal and bronchial tuberculosis
+tracheobron-cheopathia ostcochondroplastica,To
+fixed obstruction of large airway
+pulmonary arterial hypertension associated with pulmonary venous or capillary involvement
+silicosis
+allergic asthma
+anaphylactic shock
+cough variant asthma
+cough provocative test
+cough-syncope syndrome
+sequoiosis
+burn involving larynx and trachea with lung
+laryngitis
+acquired bronchial diverticulum
+expiratory flow limitation
+expiratory phase intermittent shunt
+respiratory tract obstruction
+respiratory syncytial virus pneumonia
+foreign body in respiratory tract
+respiratory tract burn
+ventilator assistant ventilation therapy
+ventilator-associated pneumonia
+ventilator dependency
+respiratory muscle fatigue
+respiratory muscle paralysis
+respiratory muscle weakness
+respiratory failure
+somatizational autonomic ner- vous dysfunction of respiratory system
+respiratory and metabolic acid-base dis- order
+respiratory alkalosis
+respiratory alkalosis associated with metabolic alkalosis
+respiratory alkalosis associated with metabolic acidosis
+respiratory hypoxia
+respiratory acidosis
+respiratory acidosis associated with metabolic alkalosis
+respiratory acidosis associated with metabolic acidosis
+respiratory exercise
+apnea
+respiratory arrest
+nursing home-acquired pneumonia
+pneumoconiosis due to tale dust
+purulent pleurisy
+chemical pulmonary edema
+Chemical pneumonitis
+chemical pleural serositis
+gangrenous pneumonia
+necrotizing sarcoid granulomatosis，NSG
+necrotizing granulomatous vasculitis,NGV
+gas exchange defeet
+hyperventilation
+mixed sleep apnca hypopnea syndrome
+mixed sleep apnea
+mixed ventilatory disorder
+Horner syndrome
+organized pneumonia
+ventilation-associated electrolyte distur- bance
+ventilation-associated pulmonary edema
+ventilation-associated lung injury
+ventilation-associated diaphragmatic dysfunction
+ventilation-associated acid-base disorder
+effusion
+acute rhinosinusitis
+acute nasopharyngitis
+acute tonsillitis
+acute submassive pulmonary embolism
+acute massive pulmonary embolism
+acute pulmonary embolism with low risk
+acute hypovolemie hyponatremia
+acute hypovolemic hypernatremia
+acute hypoxic ventilatory responsc
+acute pulmonary blastomycosis
+acute cor pulmonale
+acute pulmonary histoplasmosis
+acute hyperkalemia
+acute hypervolemic hyponatremia
+acute hypervolemic hypernatremia
+acute high altitude sickness
+acute high altitude reaction
+acute obstructive laryngitis
+acute hypersensitivity pneumonitis
+acute cough
+acute laryngotracheitis
+acute laryngitis
+acute respiratory tract infection
+acute respiratory failure
+acute respiratory alkalosis
+acute respiratory acidosis
+acute chemical bronchitis
+acute epiglottitis
+acute interstitial pneumonia
+acute pyothorax
+acute tracheitis
+acute broncho-bronchitis
+acute potassium-deficit hypokalemia
+acute upper respiratory infection
+acute eosinophilic pneumonia
+acute bronchiolitis
+acute hematogenous disseminated pulmonary tuberculosis
+acute pharyngolaryngitis
+acute pharyngitis
+acute drug-induced pulmonary disease
+acute carbon monoxide poisoning
+acute bronchitis
+acute shifted hyperkalemia
+acute mediastinitis
+secondary pulmonary tuberculosis
+sccondary pulmonary tuberculosis
+secondary pulmonary abscess
+secondary insomnia
+humidifier lung
+familial pulmonary hypertension
+influenza A virus pncumonia
+pseudohyponatremia
+acute exacerbation of interstitial lung diseases
+interstitial emphysema
+interstitial pncumonia
+decompression sickness
+alkalemia
+alkalosis
+intermittent shunt
+serofibrinous pleurisy
+unclosed pneumothorax,open pneumothorax
+connective tissue disease associated pulmo- nary hypertension
+connective tissue disease associated interstitial lung disease,CTD-ILD
+diffuse parenchymal lung disease association with connective tissue disease
+pleuritis due to connective tissue disease
+post-tuberculosis bronchiectasis
+tubercle
+abnormal reaction to tuberculin test
+tuberculous encapsulated empyema
+tuberculous massive hemoptysis
+tuberculous fibrosis of lung
+tuberculous pneumonia
+tuberculous pneumothorax
+tuberculous chylothorax
+tuberculous destroyed lung
+tuberculous pleuritis
+tuberculous bronchiectasis
+tuberculous bronchial-lymph fistula
+tuberculous bronchostenosis
+sarcoidosis
+anatomic shunt
+invasive pulmonary tuberculosis
+vein-artery shunt
+venous thromboembolism,VTE
+phlebitis
+static pulmonary hyperinflation
+localized empyema
+localized pleural mesothelioma
+angiofollicular lymph node hyperplasia,Castleman disease
+macro-pulmonary arterio-venous malformation, giant pulmonary arteriovenous malformation
+tracheobronchomegaly,TBM
+cytomegalovirus pneumonitis
+giant cell interstitial pneumonia, GIP
+interstitial pneumonia with autoim- mune features
+legionnaires pneumonia
+legionella infection
+bacteremia
+coffee-worker's lung
+Kartagener syndrome
+open injury
+open hemopneumothorax
+Mycobacterium kansasii infection
+air-conditioner lung
+air embolism
+cavitary pulmonary tuberculosis
+rapid eye movement sleep behavior disorder
+Loeffler's syndrome
+lupus lung disease
+lupus pneumonia
+Langerhans cell histiocytosis
+senile emphysema
+rib fracture
+benign tumor ofrib
+costochondritis,costal chondritis
+melioidosis pneumonia
+rheumatoid lung disease
+lipoid pncumonia
+Rickettsia pneumonia
+flail chest
+lymphocytic interstitial pneumonitis
+lymphatic thoracic injury
+squamous cell carcinoma
+epidermoid carcinoma
+influenza virus pneumonia
+Haemophilus influenzae pneumonia
+influenza
+influenza pleurisy
+sulfhemoglobinemia
+lung bauxite fibrosis
+measles pneumonia
+Penicillium marneffei pneumonia
+Malt-worker's lung
+chronic sinusitis
+chronic rhinitis
+chronic nasopharyngitis
+chronic asthmatic bronchitis
+chronie simple rhinitis
+chronic pulmonary aspergillosis
+chronic hypertrophic rhinitis
+chronic lung abscess
+chronic pulmonary heart disease
+chronic mountain sickness
+chronic cough
+chronic laryngitis
+chronic hypersensitivity pneumonitis (HP)
+chronic respiratory failure
+acute exacerbation of chronic respiratory failure
+chronie respiratory alkalosis
+chronie respiratory acidosis
+chronic empyema
+chronic potassium-deficit hypokalemia
+chronic eosinophilic pneumonia
+chronic fibro-cavemous pulmonary tuberculosis
+chronic pleurisy
+chronic thromboembolic pulmonary hypertension
+chronic hematogenous disseminated pulmo- nary tuberculosis
+chronic pharyngolaryngitis
+chronic pharyngitis
+chronic drug-induced pulmonary disease
+chronic bronchitis
+chronic mediastinitis
+chronic obstructive pulmonary disease,COPD
+stable stage of chronic obstructive pulmo- nary disease
+chronie obstructive pulmonary disease
+chronic obstructive pulmonary disease with lower respiratory tract infection
+acute exacerbation of chronic obstruc- tive pulmonary disease
+chronic obstructive pulmonary emphysema
+capillary leakage syndrome
+Meige syndrome
+coal worker's pneumoconiosis,CWP
+magnesium deficiency
+diffuse malignant pleural mesothelioma
+diffuse panbronchiolitis
+diffuse interstitial pulmonary fibrosis
+diffuse alveolar hemorrhage syndrome
+diffuse lung injury
+diffuse parenchymal lung disease,DPLD
+checkpoint inhibitor pncumonitis
+diffusion disorder
+bruxism
+mushroom worker disease
+multidrug-resistant tuberculosis,MDR-TB
+refractory asthma
+cystic fibrosis
+cystic fibrosis with pulmonary manifestation
+cystic fibrosis with combined manifestation
+cyst
+cystic bronchiectasis
+Mycobacterium avium-intracellulare
+farmer lung
+concentrated hyperkalemia
+septic shock
+pyemia
+empyema
+pyothorax with fistula
+pontiac fever
+interstitial lung disease indermatomyositis
+furrier's lung
+subcutancous tissue schistosomiasis
+anemic anoxial
+staphylococcal pneumonia
+common cold
+usual interstitial pneumonia
+airway stenosis
+collapse of airway
+airway neoplasm
+airway forcign body
+airway obstruction
+tracheal cicatrix
+tracheal contusion
+tracheal malignant tumors
+tracheal obstruction
+tracheal crushing injury
+tracheal secondary malignant tumor
+tracheal borderline tumor
+tracheal pseudolymphoma
+tracheal keratosis
+tracheal benign tumor
+tracheal fistula stenosis
+tracheal absces
+tracheal diverticulum
+tracheotomy sinus
+tracheal granuloma
+tracheomalacia
+tracheoesophageal fistula
+tracheal compression
+tracheal cannula extraction
+tracheo-innominate artery fistula
+tracheal polyp
+tracheal stenosis
+tracheitis
+foreign body in trachea
+tracheobronchomalacia
+tracheobronchitis
+airflow limitation
+air trapping
+pneumothorax
+anterior mediastinum borderline tumour
+anterior mediastinum benign tumour
+invasive pulmonary aspergillosis
+aggressive fibromatosis
+mild hypercapnia
+mild mixed ventilatory disorder
+mild sleep apnea hypopnea syn- drome
+mild ventilatory disorder
+mild smoking
+mild restrictive ventilatory disorder
+mild obstructive ventilatory disorder
+varicose bronchiectasis
+whole lung malignant tumor
+total empyema
+systemie seleroderma lung disease
+systemic intlammatory response syndrome
+panacinar emphysema,panlobular emphysema
+potassium-deficit hypokalemia
+ischemic hypoxia
+hypoxia
+hypoxic pulmonary vasoconstriction
+tropical pulmonary cosinophilia
+highly pathogenic avian influenza A infection in human
+artificial pneumothorax
+human metapenu-movinus pneumonia
+maternal smoking
+Diffuse parenchymal lung disease due to granulomas
+granulomatosis with polyangiitis,GPA
+chylous hydrothorax
+chylothorax
+lactic acidosis
+suberosis
+triple acid-base disorder
+Salmonella pneumonia
+typhoid fever complicated with pneumonia
+typhoid fever complicated with bronchitis
+amyloidosis of upper respiratory tract
+upper respiratory tract infection
+superior vena caval obstruction syndrome
+community acquired pneumonia
+community acquired mycoplasmal pneumonia
+neurogenic pulmonary edema,NPE
+physiological shunt
+upper airway cough syndrome,UACS
+upper airway resistance syndrome，UARS
+deep venous thrombosis
+decompensated metabolic acidosis
+decompensated alkalosis
+decompensated acidosis
+asbestosis
+graphite pneumoconiosis
+esophageal atresia with esophago tracheal fistula
+hiatal hernia
+esophago-tracheal fistula
+esophagopleural fistula
+esophagobronchial fistula
+esophagomediastinal fistula
+legionella pneumophila pneumonia
+Stenotrophomonas maltophilia pneumonia
+cosinophilic bronchitis
+cosinophilic nonallergic rhinitis
+eosinophilia
+eosinophilic granulomatosis
+eosinophilic granulomatosis with polyangiitis
+postoperative pulmonary dysfunction
+postoperative chronic pulmonary dysfunc-tion
+postoperative tracheal stenosis
+postoperative pleural effusion
+postoperative pneumothorax
+postoperative bronchopleural fistula
+infusion related bloodstream infection
+double metabolic acid-base disorder
+varicella-zoster virus pneumonia
+varicella pneumonia
+water intoxication
+sleep hypoventilation
+sleep hypoventilation syndrome
+seizures insleep
+sleep apnoca
+sleep-related apnea-hypopnea index
+sleep apnea hypopnea syndrome
+sleep-related breathing disorder
+sleep-related rhythmic movement disorder
+advanced sleep-phase syndrome
+delayed sleep-phase syndrome
+sleep disorder
+pigeon fancier's lung
+pigeon fancier's lung
+bird fancier's lung
+immediate asthmatic reaction
+acid-base imbalance
+acid-base disturbance
+acidosis
+collar bone benign tumor
+sigh
+anthrax pneumonia
+anthracosis
+anthracosilicosis
+Down syndrome
+idiopathic pulmonary arterial hypertension
+idiopathic pulmonary hemosiderosis
+idiopathic pulmonary fibrosis
+acute exacerbations of idiopathic pulmo- nary fibrosis
+idiopathic pneumonia syndrome
+idiopathic interstitial pneumonia
+idiopathic hypersomnia
+idiopathic eosinophilic pneumonia
+idiopathic pleuroparenchymal fibroelastosis
+idiopathic pleural effusion
+specific immunotherapy
+atopic asthma
+compensated ventilation
+ventilatory disorder
+hyperventilation syndrome
+decompensated ventilation
+ventilation perfusion ratio mismatch
+pseudomonas aeruginosa pneumonia
+dehydration
+desquamative interstitial pneumonial
+extrinsic asthma
+extrinsic alveolitis
+extrinsic asthma
+peripheral fatigue
+micro pulmonary arteriovenous malformation
+atrophic rhinitis
+influenza with pneumonia(virus not identified)
+gastroesophageal reflux cough
+asymptomatic hyponatremia
+aspiration lung abscess
+aspiration pneumonia
+inhalation injury
+blood aspiration pneumonia
+oil aspiration pncumonia
+toxic gas aspiration pneumonia
+resorptive atelectasis
+cigarette smoking index
+dilutional hypokalemia
+dilutional hyponatremia
+stannosis
+cheese-washer's lung
+systemic air embolism
+bacterial pneumonia
+bacterial bronchopneumonia
+bronchiole malignant tumor
+bronchioloalveolar carcinoma
+bronchiolectasis
+foreign body in bronchiole
+congenital nasopharynx atresia
+congenital rib bifurcation
+congenital pulmonary arteriovenous malforma- tion
+congenital abnormal origin or developmental abnormaly of pulmonary artery
+congenital pulmonary cyst
+congenital accessory lobe of lung
+congenital diaphragmatic hernia
+congenital malformation of diaphragm
+congenital malformation of rib
+congenital absence of rib
+congenital rib fusion
+congenital rib eversion
+ongenital cystic adenomatoid malformation
+congenital tracheobronchial hypoplasia
+congenital absence of lung lobe
+congenital pulmonary adenomatoid cyst
+congenital malformation of sternum
+congenital bronchial hamartoma
+congenital malformation of bronchial
+congenital cyst of mediastinum
+fibrinous pleurisy
+fibrinous bronchitis
+microscopie polyangitis
+restrictive ventilatory disorder
+fibrothorax
+adenoviral pneumonia
+adenosquamous carcinomal
+periacinar emphysema
+relative adrenal insufficiency
+associated pulmonary arterial hypertention
+infantile pneumonia
+small airway disease
+small airway dysfunction
+collapse of small airway
+small cell lung cancer
+lobular pneumonia
+asthma-COPD overlap
+complete control ofasthma
+uncontrolled asthma
+asthmatic pulmonary eosinophilia
+pericardial eyst
+pneumopericardium
+postmyocardial infarction syndrome
+cardiogenic pulmonary edema
+persistent pulmonary hypertension of new. born,PPHN
+chronic lung disease of newborn
+neonatal bronchitis
+ventilator lung in newborn
+neonatal congenital pulmonary fibrosis
+nconatal bronchopulmonary dysplasia
+neonatal bronchopneumonia
+cryptococcus neoformans pneumonia
+sinus of thoracic wall
+chest wall malignancy
+secondary malignant tumor of chest wall
+thoracic tuberculosis
+benign tumor of chest wall
+thoracic lymph node tuberculosis
+postoperative chest wall softening
+fibrosarcoma of chest wall
+thoracie malignant tumor
+thoracic lymphangiomatosis
+胸部损伤 thoracic trauma
+thoracic duct obstruction
+thoracic duct injury
+sternum benign tumor
+parasternal diaphragmatic hernia
+intra-thoracic nonfixed obstruction of large airway
+extra-thoracic nonfixed obstruction of large airway
+thoracic trauma
+chest tightness variant asthma
+pleural plaque with ashestosis
+parietal pleura malignancy
+pleural disease
+pleural calcification
+pleural disease
+pleural echinococcosis
+mesothelioma of pleura
+pleura borderline tumor
+胸膜结核瘤 pleural tuberculoma
+benign tumor of pleural
+pleural effusion
+pleural fibrous hyperplasia
+malignant tumor of pleural
+pleurisy
+pleurisy with effusion
+pleural thickening
+pleural adhesions
+pleural lipoma
+secondary malignant intrathoracic tumor
+secondary malignant intrathoracic lymph node
+tuberculosis of intrathoracic lymph node
+chest infection
+pleural effusion
+pleural borderline tumor
+pleural transudate
+benign intrathoracic tumor
+chest burn
+thoracic space-occupying lesion
+thoracic lipoma
+sternoclavicular dislocation
+thymic carcinoma
+thymus lymphangioma
+thymoma
+thymic cyst
+vasculitis with pulmonary damage
+vasomotor rhinitis
+hemoglobinopathy
+bloodstream infection
+hematogenous disseminated pulmonary tuberculosis
+bloody hydrothorax
+hemothorax
+hemic hypoxia
+circulatory hypoxia
+compression atelectasis
+subacute cough
+subacute miliary tuberculosis
+subacute hematogenous pulmonary tuberculosis
+subacute drug-induced pulmonary disease
+flax-dresser's disease
+tobacco dependence
+severe acute respiratory syndrome
+inflammatory lung damage
+pharyngitis
+amniotic fluid embolism
+Young's syndrome
+drug and toxin associated pulmonaryhypertension
+medicamentous rhinitis
+drug-induced lung disease
+drug-induced lung damage
+drug-induced interstitial lung disease
+drug-induced interstitial pneumonia
+drug-induced asthma
+drug-induced bronchial asthma
+interlobar effusion
+axillary lymphadenitis
+hydropneumothorax
+axillary malignant tumor
+decreased diffusion capacity of carbon monoxide
+carbon monoxide poisoning
+iatrogenic pneumothorax
+hospital acquired pneumonia
+hereditary hemorrhagic telangiectasia, HHT
+hereditary pulmonary arterial hypertension
+influenza B virus pneumonia
+enterobacter cloacae pneumonia
+cryptococcal pneumonia
+cryptogenie organizing pneumonia
+stress hyperglycemia
+stress ulcer
+infantile asthmatic bronchopneumonia
+infantile bronchopneumonia
+infantile bronchitis
+psittacosis pneumonia
+right lung cancer
+right main bronchus cancer
+congestive hypoxia
+fishmeal-worker's lung
+primary pulmonary tuberculosis
+primary alveolar hypoventilation syndrome
+primary hypernatremia
+primary ciliary dyskinesia
+primary bronchial amyloidosis
+primary bronchogenic carcinoma
+primary bronchopulmonary amyloidosis
+primary mediastinal lymphoma
+bronchial asthma menstrual period
+menstrual period bronchial asthma
+catamenial pneumothorax
+permissive hypercapnia
+exercise-induced asthma
+visceral pleura malignancy
+focal emphysema
+pulmonary tuberculosis of proliferative type
+adhesive atelectasis
+tension pncumothorax
+bagassosis
+fungal pneumonia
+respiratory failure with normal lung volume
+normovolemic hypernatremia
+bronchobiliary fistula
+bronchial septic bacillus pertussis
+bronchial amyloidosis
+bronchial artery rupture
+broncho-pulmonary dysplasia,BPD
+bronchial-pulmonary mycosis
+bronchial occlusion
+bronchial calcification
+bronchial pyogenic granuloma
+lipoma of bronchus and lung
+bronchus secondary malignant tumor
+bronchial borderline tumor
+broncholithiasis
+bronchial ulceration
+bronchiectasis with hemoptysis
+bronchiectasis
+bronchial benign tumor
+bronchial lymph node secondary malig-nant tumor
+bronchial lymph node tuberculosis
+bronchial fistula
+bronchogenic cyst
+endobronchial hemorrhage
+endobronchial tuberculosis
+bronchial mucosa fibrosis
+mucoepidermoid carcinoma of bronchus
+bronchial candidiasis
+bronchial leiomyoma
+bronchial papilloma
+bronchial cartilage secondary malignanttumon
+bronchial chondroma
+gastrocolic bronchial fistula
+bronchogastric fistula
+bronchial polyp
+bronchial stenosis
+bronchial adenoma
+bronchial adenoid eystic carcinoma
+bronchial asthma
+bronchial asthma (partial control)
+bronchial asthma (intermittent episodes)
+bronchial asthma (chronic duration)
+bronchial asthma (mild persistent)
+bronchial asthma (severe persistent)
+bronchial asthma exacerbation (mild)
+bronchial asthma exacerbation (critical)
+bronchial asthma exacerbation (moderate)
+bronchial asthma exacerbation(severe)
+acute exacerbation of asthma
+chronic persistent of asthma
+asthma and chronic obstructive pulmonary disease overlap
+bronchial neoplasm
+bronchopleural fistula
+bronchitis
+bronchitis of mass
+foreign body in bronchus
+bronchial carcinoma in situ
+bronchial fungal infection
+bronchial lipoma
+bronchocentrie granulomatosis
+mycoplasma pneumonia
+fat embolism syndrome
+occupational asthma
+fibrosing alveolitis
+catheter-related infection
+moderate hypercapnia
+moderate sleep apnea hypopnea syndrome
+moderate ventilatory disorder
+moderate smoking
+moderate restrictive ventilation dysfunc- tion
+moderate obstructive ventilation dysfunc- tion
+enterogenous cyst of central nervous sys tem
+central hypoventilation syndrome
+central alveolar hypoventilation syndrome
+central fatigue
+central sleep apnea syndrome
+central lobe emphysema
+central bronchogenic carcinoma
+clevated tumor marker
+toxic pneumonia
+severe hypoalbuminemia
+severe hypoproteinemia
+severe hypereapnia
+severe acute respiratory distress syndrome
+severe acute exacerbation of chronic obstructive pulmonary disease
+severe sepsis
+severe sleep apnea hypopnea syndrome
+severe ventilatory disorder
+severe smoking
+severe restrictive ventilation dysfunetion
+severe obstructive sleep apnea hypopnea syndrome
+severe obstructive ventilatory dysfunction
+severe viral pneumonia
+severe Pneumocystis carinii pneumonia, PCP
+severe pneumonia
+severe influenza A virus pneumonia
+severe cytomegalovirus pneumonia
+severe influenza
+severe influenza virus pneumonia
+severe bronchiolitis
+severe community-aequired pneumonia
+severe adenovirus pneumonia
+severe asthm
+severe influenza B
+periodic sleepiness,periodic somnolence
+peripheral lung cancer
+active smoking
+main bronchus benign tumor
+benign tumor adjacent to the main bronchus
+cylindrical bronchiectasis
+pneumoconiosis in foundry workers
+shifted hypokalemia
+shifted hyponatremia
+shifted hyperkalemia
+belching
+pitting edema
+white frothy sputum
+inspiratory crackle
+nasal tampon
+flat chest
+suffocation
+tidal breathing
+cogwheel breath sound
+coarse moist rale
+massive hemoptysis
+profuse water-like sputum
+profuse white frothy sputum
+profuse pink frothy sputum
+night sweating
+sinus tract
+sonorous rhonchi
+orthopnea
+whispered pectoriloquy enhancement
+cyanosis
+radiating pain
+dysphonia
+paradoxical respiration
+non-pitting edema
+atelectasis
+vesicular breath sounds
+pulmonary cyanosis
+pulmonary dyspnca
+hypostatic atclcctasis
+hypostatie pneumonia
+spontaneous pneumothorax
+mediastinal malignant tumor
+mediastinal teratoma
+secondary malignant tumor of mediastinum
+borderline tumor of mediastinum
+mediastinal tuberculoma
+mediastinal lymphangioma
+secondary malignant tumor of mediastinal lymph node
+mediastinal lymphonode tuberculosis
+mediastinal hemangioma
+mediastinal shadow
+mediastinal lipom
+obstructive atelectasis
+obstructive tracheobronchial aspergillosis
+obstructive ventilatory disorder
+histogenous hypoxia
+left lung cancer
+malignant tumor of upper lobe of left lung
+malignant tumor of lower lobe of left lung
+left heart disease associated pulmonary hypertension
+left main bronchus cancer
+pink frothy sputum
+adventitious sound
+Diaphragmatic breathing
+rhonchi，rhonchus
+dry cough
+sibilant rhonchi
+hemoptysis
+rachitic chest
+tympany
+hyperresonance
+cough
+expectoration
+expiratory dyspnea
+shortness of breath
+bradypnca
+tachypnca
+hypopnea
+respiratory rhythm
+dyspnea
+respiratory rate
+breath sound
+breathing exercise
+hyperpnoca
+Hoover sign
+mixed cyanosis
+mixed dyspnea
+pectus carinatum
+scoliosis
+kyphosis
+lordosis
+hypochondriac discomfort
+hypochondriac pain
+meningitic breathing, Biot breathin
+brassy cough
+localized edema
+amphorophony
+costophrenic groove
+rachitic rosary
+transudative pleural effusion
+funncl chest
+ralc
+chronic airvay inflammation
+mucopurulcnt sputum
+mucous sputum
+crepitus
+purulent sputum
+subcutaneous emphysema
+short breath
+tracheorrhagia
+thc trachcobronchial lesions with caleification
+traction bronchicctasis
+bucking
+mild edema
+resonance
+generalized edema
+ischemic peripheral cyanosis
+three depressions sign
+dyspneoneurosis
+moistrale
+moist cough
+flatness
+double inspiration
+cdema
+Kussmaul respiration in acidosis,Kussmaul respiration
+voluntary breathing
+pursed-lip breathing
+sighing breathing
+nustysputum
+barrel chest
+inspiratory stridor
+inspiratory dyspnca
+smoking
+finc moist rale
+mild hemoptysis
+T tubc wcaning
+dcmand valve air feed
+targeted therapy
+closed loop ventilation
+surfactant inhalation therapy
+partial parenteral nutrition
+partial liquid ventilation, PLV
+lateral position ventilation
+wheczing
+psychogcnic cough
+cardiogenic cyanosis
+cardiac dyspnea
+paradoxical thoracoabdominal motion
+thoracic deformity
+thoracic expansion
+oppression in chest
+pleural friction fremitus
+pleural friction rub
+pleural drum
+abnormal chest pcrcussion sound
+thoracic breathing
+chest pain
+pectoriloquy
+bloody sputum
+blood pressure
+egophony
+paroxysmal nocturnal dyspnea.
+Axillary lymphadenopathy
+abnormal vesicular breath sound
+abnormal brcath sound
+abnormal bronchovesicular brcath sound
+abnormal bronchial brcath sound
+inhibitory breathing
+recessive edema
+coin sign
+effective cough
+congestive peripheral cyanosis
+vocal resonance
+vocal fremitus
+normal breath sound
+normal breathing motion
+bronchovesicular brcath sound
+bronchial breath sound
+bronchophony
+moderate hemoptysis
+moderate edema
+mnedium moist rale
+central cyanosis
+toxic dyspnea
+severe Pectus excavatum
+severe edema
+periphcral cyanosis
+dullness
+spontancous Tespiratory frequcncy
+long-lcrm oxygcn thcrapy
+cnteral nutrition
+parenteral nutrition
+noral tidal volume
+conventional tidal volume mechanical ventilation
+conventional mechanical ventilation
+endobronchial ultrasound-guided trans- bronchial needle aspiration, EBUS-TBNA
+ultrasound-guided percutancous lung biopsy
+ultrasound-guided thoracentesis
+ultrasound-guided intrapleural position- ing of pleural catheters
+weaning
+weaning method
+proportional ventilation
+continuous low-flow oxygen therapy
+continuous positive airway pressure
+continuous negative pressure ventilation
+continuous flow air feed
+continuous positive pressure ventilation
+continuous mandatory ventilation
+bedside tracheotomy
+bedside endotracheal intubation
+servo valve air feed
+high tidal volume
+high tidal volume mechanical ventilation
+metabolic intervention
+isolated ultrafiltration
+metabolic support
+low-low oxygen therapy
+low concentration oxygen therapy
+low level positive end-expiratory pressure
+electronic tracheoscopy
+volume-controlled inverse ratio ventilation
+volume-controlled mode
+timing trigger
+pressure target ventilation
+pressure-controlled continuous mandatory ventilation
+pressure-controlled inverse ratio ventilation
+pressure-controlled mode
+pressure-controlled synchronized continu- ous mandatory ventilation
+short-term oxygen therapy
+radiation therapy
+inverse ratio ventilation
+chemical treatment of lung cancer
+treatment of lung cancer
+lung protective ventilation strategy
+resection of lung mass
+recruitment maneuver
+lung biopsy
+lung volume reduction surgery
+open lung strategy
+pulmonary rehabilitation
+drainage of alveolus
+lung transplantation
+independent lung ventilation
+prone ventilation
+assist-control ventilation
+assisted ventilation
+adjuvant chemotherapy
+staging surgery
+negative pressure ventilation
+combined cycling
+improving tissue oxygen supply
+high concentration oxygen therapy
+high-flow oxygen therapy
+high frequency electrotherapy
+high frequency ventilator
+high frequency jet ventilator
+high frequency jet ventilation
+high frequency llow interrupter high frequency oscillation ventilation
+high frequency ventilation
+high frequency chest wall oscillation
+high frequency oscillation ventilation
+high frequency positive pressure ventilation
+high level positive end-expiratory pressure
+hyperbaric oxygen
+hyperbaric oxygen therapy
+radical radiotherapy
+radical surgery
+radical chemotherapy
+exchanging the endotracheal tube
+palliative radiotherapy
+palliative chemotherapy
+palliative surgery
+photodynamic therapy
+helium oxygen mixture ventilation
+backup ventilation
+expiratory synchrony
+negative end-expiratory pressure
+end-expiratory hold
+positive end-expiratory pressure
+drainage of respiratory system
+breathing support technique
+thyrocricoid puncture
+cricothyroidotomy
+slow continuous ultrafiltration
+mechanical ventilation
+oxygen therapy via mechanical ventilation
+home oxygen therapy
+intermittent discontinuing of ventilatory support
+indirect preset tidal volume
+intermittent negative pressure ventilation
+intermittent positive pressure ventilation
+intermittent mandatory ventilation
+interventional therapy
+mechanical ventilation via nasotracheal cannula
+non-invasive positive ventilation via nasal mask
+nasotracheal intubation
+orotracheal cannula
+orotracheal intubation
+mechanical ventilation via orotracheal cannula
+non-invasive positive ventilation via face mask
+percutaneous transthoracie needle aspiration biopsy
+percutaneous dilatational tracheostomy
+percutancous tracheostomy
+percutaneous microwave coagulation therapy
+mechanical ventilation via tracheal cannula
+mechanical ventilation via incision of tracher
+transbronchial lung biopsy,TBLB
+endobronchoscopic interventional therapy
+transbronchial needle aspiration,TBNA
+local chemotherapy
+control ventilation
+sustained inflation
+controlled oxygen therapy
+cryotherapy
+constant flow ventilation
+continuous arterio-venous hemofiltration
+continuous arterio-venous hemodialysis
+continuous arterio-venous hemodiafil- tration
+continuous veno-venous hemofiltration
+continuous veno-venous hemodialysis
+continuous blood purification
+needle biopsy of lymph node
+fine needle aspiration of lymph node
+flow trigger
+flow-adapted volume control ventilation
+flow-limited time cycling
+blind endotracheal intubation
+flow cycling
+immunoadsorption
+immunotherapy
+endoscopic lung volume reduction
+intrinsic positive end-expiratory pressure
+retrograde endotracheal intubation
+nicotine replacement therapy
+sepsis resuscitation bundle strategy
+sepsis bundle strategy
+endotracheal stent implantation
+airway pressure release ventilation
+endotracheal intubation
+endotracheal extubation
+endotracheal intubation
+tracheoscopy
+removal of tracheal foreign body by bron- choscopic extraction
+sputum suction by bronchoscopy
+intratracheal gas insufflation
+intratracheal insuffation of oxygen
+intratracheal jet
+transtracheal oxygen therapy
+tracheotomy mechanical ventilation
+trachcostomy
+tracheal trauma
+tracheostomy cannula
+drainage of trachea
+removal of tracheobronchial foreign bodies
+intracavitary brachytherapy
+tracheostomy cannula extubation
+total liquid ventilation
+artificial respiration
+artificial airway
+mechanical ventilation via artifical airway
+patient-ventilator asynchrony
+patient-ventilator synehrony
+volume trigger
+volume assist-control ventilation
+volume assist ventilation
+volume-controlled intermittent mandatory ventilation
+volume-controlled ventilation
+volume-controlled synchronized inter mittent mandatory ventilation
+volume-controlled syn- chronized intermittent mandatory ventilation plus pressure support ventilation
+volume-limited
+volume-limited volume cycling
+volume-limited time cycling
+volume support ventilation
+volume cycling
+neurally adjusted ventilatory assist
+humidification therapy
+time limit
+time cycling
+adaptive support ventilation
+surgical treatment
+sigh ventilation
+dual control mode
+biphasic positive airway pressure
+extracorporeal carbon dioxide removal
+postural drainage
+ventilation mode
+ventilation pressure
+synchronize
+ventilation parameter
+synchronized continuous mandatory ventilation
+synchronized intermittent mandatory ventilation
+synchronized intermittent mandatory venti-lation weaning method
+synchronized intermittent mandatory ventilation plus pressure support
+synchronized intermittent mandatory ventilation plus pressure support ventilation weaning
+synchronic time
+total parenteral nutrition
+piston pump high frequency oscillation ventilation
+microwave therapy
+mini-tracheostomy
+non-invasive continuous positive airway pressure
+non-invasive mechanical ventilation
+noninvasive ventilation
+non-invasive positive ventilation
+non-breathing oxygen therapy
+nebulization therapy
+inspiratory-expiratory cycling
+synchrony of inspiratory expiratory phase transition
+inspiratory trigger synchrony
+inspiratory trigger
+inspiratory synchrony
+end-inspiratory hold
+positive end-inspiratory pressure
+sputum suctioning
+fiberoptic bronchoscopy guided endotracheal intubation
+low tidal volume
+low tidal volume ventilation
+continuous negative external pressure
+closed thoracie drainage
+thoracentesis
+pleural lavage
+chest drainage
+pleurodesis
+indwelling pleural catheter,IPC
+thoracic closed drainage with negative pressure
+chest tube or small-bore catheter drainage
+hemoperfusion
+blood purification
+hemofiltration
+hemodialysis
+pressure trigger
+pressure regulated volume control ventilation
+pressure augment
+pressure assist-control ventilation
+pressure assisted ventilation
+pressure-controlled intermittent mandatory ventilation
+pressure-controlled ventilation
+pressure-controlled synchronized inter- mittent mandatory ventilation
+pressure-controlled syn- chronized intermittent mandatory ventilation plus pressure support ventilation
+pressure-limited
+pressure-limited flow cycling
+pressure-limited time cycling
+pressure-limited ventilation
+pressure-limited pressure cycling
+pressure support ventilation
+pressure support ventilation weaning
+pressure cycling
+argon plasma coagulation
+tobacco control
+delay time
+oxygen therapy
+elemental diet
+fluid resuscitation
+liquid ventilation
+core needle biopsy of axillary lymph nodes
+fine needle aspiration of axillary lymph nodes
+axillary sentinel lymph node biopsy
+inhaled nitric oxide therapy
+invasive mechanical ventilation
+drainage
+sequential invasive non-invasive mechanical ventilation
+mouth occlusion pressure at 0. Is after onset of inspi- ratory effort
+foreed expiratory volume in half second
+tidal expiratory flow at 25% of tidal volume
+潮气容积呼气流量与潮气呼气峰流量比值 ratio of tidal expi- ratory flow at 25% of tidal volume to PTEF
+forced expiratory volume in two seconds
+forced expiratory volume in three seconds
+tidal expiratory flow at 50% of tidal volume
+six-minute walk test
+foreed expiratory volume in six seconds
+galactomannan antigen test
+tidal expiratory flow at 75% of tidal volume CT
+computed tomographic pulmonary angiography
+Xray
+B-D-glucan test
+specific airway resistance
+specific compliance
+closing volume
+closing volume curve
+closing capacity
+standard lung volume history
+standard buffer base
+standard base excess
+presct tidal volumc
+presct respiratory rate
+preset I/E ratio
+preset fractional inspiratory time
+permissibility low calorie policy
+early goal-directed therapy
+diagnostic surgery
+analgesia and sedation
+positive pressure ventilation
+connection of positive pressure ventilation
+bronchial artery embolization
+bronchoalveolar lavage,BAL
+bronchoscopy
+endobronchial injection
+bronchial thermoplasty
+direct alveolar ventilation
+direct preset tidal volume
+direct discontinuing ventilatory support
+mandatory minute ventilation
+moderate level positive end-expiratory pressure
+moderate concentration oxygen therapy
+auto-continuous positive airway pressure
+automatic tube compensation
+autoflow
+general breathing
+autonomous trigger
+spontancous breathing
+spontaneous-limited
+spontaneous cycling
+comprehensive treatment
+optimal positive end-expiratory pressure
+standard carbonate
+surface tension
+waveform monitoring
+Borg scale
+expiratory reserve volume
+inspiratory reserve volume
+residual volume
+ratio of residual volume to total lung capacity
+lateral position pulmonary function
+peak tidal expiratory flow
+tidal breathing flow-volume curve
+tidal volume
+triggering time
+magnetic resonance imaging
+volume at peak tidal expiratory flow
+ratio of volume at peak tidal expiratory flow to expiratory tidal volume
+time to peak tidal expiratory flow. TPTEF
+ratio of time to peak tidal expiratory flow to total expira- tory time,TPTEF/TE
+partial pressure of carbon dioxide in atmosphere
+fractional concentration of carbon dioxide in atmo- sphere
+metabolic equivalent
+respiratory quotient of protein
+Ⅲ-phase slope of nitrogen coneentration
+Dagalas bag method
+iso-capnic hyperventilation provocation test
+isovolume pressure-flow curve
+hypoosmolality
+lower inflection point
+pressure of lower inflection point
+volume of lower inflection point
+lower flat part
+hypoxia challenge test
+hypoxic ventilatory response
+20% 激发剂量 provocative dose of bronchoconstrictor trigger which causes a fall of 20% in FEV,
+20% 激发浓度 provocative concentration of bronchosonstrictor trigger needed to cause a 20% fall in FEV,
+forced expiratory volume in one second
+electronic bronchoscope
+-混合静脉血氧含量差 arterio-mixed venous oxygen content difference
+arterio-venous oxygen content difference
+partial pressure of carbon dioxide in arterial blood
+arterial blood gas
+arterial blood gas analysis
+total pressure of gas in arterial blood
+arterial ketone body ratio
+arterial oxygen saturation
+partial pressure of arterial oxygen
+arterial oxygen content
+oxygen delivery in arterial blood
+dynamic lung compliance
+dynamic respiratory loop
+dynamic compliance of respiratory system
+dynamic compliance
+20 dynamic lung compliance at 20 times per minute of respiratory frequency
+40 dynamic lung compliance at 40 times per minute of respiratory frequency
+60 dynamic lung compliance at 60 times per minute of respiratory frequency
+dynamic chest wall compliance
+polysomnography
+multiple organs dysfunction score
+capnogram
+carbon dioxide output
+carbon dioxide dissociation curve
+carbon dioxide discharge
+ventilatory equivalent for carbon dioxide
+non-protein respiratory quotient
+non-frequency dependence of dynamic compliance
+buffer base except bicarbonate
+non specifie bronchial provocation test
+mean pulmonary artery pressure
+pulmonary artery systolie pressure
+pulmonary artery diastolic pressure
+pulmonary artery wedge pressure
+pulmonary artery pressure
+diffusion capacity of carbon dioxide of lung
+pulmonary function
+pulmonary function test
+pulmonary function test apparatus
+reduced lung function
+lung inertia resistance
+pulmonary perfusion imaging
+vital capacity
+pulmonary interstitial negative pressure
+pulmonary interstitial pressure
+pulmonary venous pressure
+spirometry
+pulmonary capillary hydrostatic pressure
+pulmonary capillary transmural pressure
+pulmonary capillary critical opening pressure
+oxygen saturation in pulmonary capillary blood
+pulmonary capillary partial pressure of oxygen
+oxygen content in pulmonary capillary blood
+diffusion capacity of lung
+alveolar surface tension
+alveolar-artery oxygen partial pressure gradient
+partial pressure of carbon dioxide in alveolar gas
+fractional concentration of carbon dioxide in alveolar gas
+alveolar ventilation volume
+alvcolar ventilation- partial pressure of carbon dioxide in arterial blood curve
+alveolar pressure
+alveolar oxygen partial pressure
+fractional concentration of alveolar oxygen
+lung compliance
+lung elastance
+pulmonary ventilation dysfunction
+lung ventilation imaging
+intrapulmonary blood vessel pressure
+pulmonary vascular resistance
+pressure outside pulmonary blood vessel
+pulmonary blood flow
+pulmonary blood volume
+pressure-volume curve of lung
+diffusion capacity of oxygen of lung
+diffusion capacity of carbon monoxide of lung
+interventional pulmonary technique
+total lung capacity
+lung resistance
+lung tissue viscous resistance
+separate pulmonary function
+fractional vital capacity
+hypercapnic ventilatory response
+lactime
+hypertonic saline provocation test
+upper inflection point, high inflection point
+volume of upper inflection point
+pressure of upper inflection point
+upper flat part
+Glasgow coma scale
+diaphragmatic muscle endurance time
+diaphragmatic electromyogram,diaphragmatic EMG
+diaphragmatic tension-time index
+functional residual capacity
+ratio of functional residual volume to total lung capacity
+functional hemodynamic monitoring
+maximal expiratory flow-volume curve with heliox mixture
+tidal volume.expiratory tidal volume
+negative expiratory pressure
+expiratory flow-volume curve
+partial pressure of end-tidal carbon dioxide
+fractional concentration of end-tidal carbon dioxide
+end-expiratory lung volume
+partial pressure of oxygen in end-tidal gas
+fractional concentration of oxygen in end-tidal gas
+expiratory time
+airway resistance at expiratory phase
+expiratory phase time
+expiratory positive airway pressure
+expiratory pressure slope
+mid-expiratory flow
+respiratory waveform
+breathing reserve
+work of breathing
+dyspnea index
+respiratory exchange ratio
+respiratory quotient
+respiratory elastance
+respiratory dynamic resistance
+respiratory inertial resistance
+respiratory static resistance
+respiratory viscous resistance
+respiratory system compliance
+pressure-volume curve of respiratory system
+breathing pattem
+respiratory index
+respiratory cycle
+impedance
+bound carbon dioxide
+buffer base
+partial pressure of carbon dioxide in mixed expired gas
+fractional concentration of carbon dioxide in mixed expired gas
+partial pressure of oxygen in mixed expired gas
+fractional concentration of oxygen in mixed expired gas
+respiratory quotient of mixed food
+oxygen saturation in mixed venous blood
+partial pressure of oxygen in mixed venous blood
+oxygen content in mixed venous blood
+mixing-bag method
+monitoring of mechanical ventilation
+mechanical ventilation frequency
+basal lung volume
+basal lung capacity
+acute physiology and chronic health evaluation health evaluation Ⅳ
+computed tomography
+home sleep apnea test
+monitoring tidal volume
+simplified acute physiology score
+base excess
+indirectly measured lung volume
+colloid osmotic pressure
+step exercise
+structural paramcter diagram
+combined oxygen
+abnormal result of Mantoux test
+tuberculin test
+percutaneous lung biopsy
+percutaneous arterial oxygen saturation
+percutaneous arterial oxygen partial pressure
+transthoracic needle aspiration biopsy
+transbronchial lung biopsy
+transbronchial biopsy
+endobronchial ultrasonography
+crystal osmotic pressure
+ratio of shunted blood to total perfusion
+transbronchial needle aspiration
+partial pressure of oxygen in venous blood
+venous oxygen saturation
+venous oxygen content
+static lung compliance
+static compliance of respiratory system
+static compliance
+static chest wall compliance
+resting pulmonary vasomotor tone
+resting pulmonary vascular resistance
+minute ventilation at rest
+resting vasomotor tone
+open helium dilution method
+open helium dilution method-rebreathing method
+open helium dilution method-single breath method
+reversible airflow limitation
+transmural pressure
+transpulmonary pressure
+transdiaphragmatic pressure
+transairway pressure
+transchest wall pressure
+transthoracic pressure
+clinical pulmonary infection score
+flow waveform
+flowmetery
+traffic monitoring, flow monitoring
+flow-volume curve
+limited-flow index
+integrated-flow body plethysmograph
+sulfur hexafluoride dilution
+impulse oscillometry system
+capillary hydrostatic pressure
+transmural pressure of capillary
+oxygen saturation in capillary blood
+partial pressure of oxygen in capillary blood
+oxygen content in capillary blood
+oxygen pulse
+low-volume waveform
+oxygen consumption per kg body weight
+diffusion capacity for carbon mon- oxide per liter of alveolar volume
+diffusion coefficient
+- 单次呼吸法 airtight nitrogen dilution-single breath method
+airtight nitrogen dilution
+重复呼吸法 airtight nitrogen dilution-rebreathing method
+airtight helium dilution method
+airtight helium dilution-rebreathing method
+airtight helium dilution-single breath method
+frictional resistance
+sepsis-related organ failure assessment
+frequency dependence of dynamic compliance
+speetroanalytic diagram
+intrabreath diagram
+mean airway pressure
+mean inspiratory flow
+plateau pressure
+breath holding time
+breath holding test
+thoracic exploration
+airway conductance
+airway elastance
+partial pressure of carbon dioxide in airway
+fractional concentration of carbon dioxide in airway
+airway responsiveness
+peak pressure
+difference between peak airway pressure and plateau pressure
+airway hyperresponsiveness
+airway inertial resistance
+airway compliance
+airway pressure
+partial pressure of oxygen in airway
+fractional concentration of oxygen in airway
+airway foreign bodies
+airway resistance
+specific airway conductance
+provocative dose of PAF causing a 35% fall in sGaw
+provocative concentration of PAF causing a 35% fall in sGaw
+flow dependency of airflow resistance
+area dependency of airflow resistance
+cuff leak trial
+air-analysis method
+air velocity index
+air trapping volume
+gas diffusion rate
+logistie organ dysfunction score
+driving pressure
+blood base excess
+volume waveform
+volume monitoring
+dissolved carbon dioxide
+solubility coefficient
+dissolved oxyger
+clearance of lactic acid
+oxygen uptake
+inspiratory capacity
+exudate
+osmotic pressure
+forced expiratory volume in certain second
+actual breathing frequency
+actual buffer base
+actual base excess
+actual bicarbonate
+actual I/E ratio
+actual fractional inspiratory time
+esophageal pressure
+efferent tidal volume
+compliance
+relaxation pressure
+insufflation time
+elastic resistance
+respiratory quotient of carbohydrate
+carbonate
+bicarbonate
+body plethysmography
+bicarbonate buffer base
+dynamic lung compliance at certain respiratory frequency
+specific bronchial provocation test
+systemic blood pressure
+reserve of ventilation
+percentage of reserve of ventilation
+ventilation runaway
+ventilation limit
+ventilation perfusion ratio
+ventilatory response
+peripheral resistance
+miniature mixed room method
+undetermined anion
+undetermined cation
+non-invasive pulse oximetry
+non-mixed room method
+ratio of dead space to tidal volume
+dead space ventilation
+anaerobic threshold
+alveolar-artery oxygen partial pressure gradient when breathing oxygen
+inspiratory to expiratory ratio
+alveolar-artery oxygen partial pressure gradient when breathing air
+inspiratory tidal volume
+end-inspiratory volume
+inspiratory vital capacity
+peak inspiratory flow
+inspiratory flow
+inspiratory flow limitation
+inspiratory time
+fractional inspiratory time
+airway resistance at inspiratory phase
+inspiratory phase time
+inspiratory positive airway pressure
+inspiratory pressure slope
+partial pressure of carbon dioxide in inspired gas
+fractional concentration of carbon dioxide in inspired gas
+partial pressure of inspired oxygen
+inspired oxygen flow
+fractional concentration of inspired oxygen
+cellular injury score
+extracellular fluid base excess
+flexible bronchoscope
+fiberoptic bronchoscopy
+ramp test
+small mixed room method
+cardiac output
+intrapleural negative pressure
+chest computed tomography
+chest X-ray
+chest ultrasound
+chest magnctie resonance imaging
+chest wall elastance
+chest wall inertial resistance
+chest wall viscous resistance
+chest wall compliance
+pressure-volume curve of chest wall
+pleural biopsy
+thoracentesis
+intrapleural pressure
+thoracie gas volume
+thoracoscopy
+blood pressure of blood vessel
+vasomotor tone
+hemoglobin oxygen saturation
+hemoglobin oxygen content
+total plasma carbon dioxide content
+plasma osmotic pressure gap
+blood flow
+blood gas
+blood gas analysis
+blood volume
+blood oxygen saturation
+50% 时的氧分压 partial pressure of oxygen at 50% hemoglobin saturation
+blood oxygen content
+blood oxygen capacity
+pressure waveform
+pressure monitoring
+pressure gradient
+pressure-vessel wave
+pressure-vessel wave
+variable-pressure constant-volume body plethys- mograph
+compressible volume factor
+partial pressure of oxygen
+oxygen partial pressure graded distribution
+oxygen consumption
+oxygenation index
+oxygen dissociation curve
+ventilatory equivalent for oxygen
+breath by breath method
+forced expiratory volume in one second/forced vital capacity
+CO diffusion capacity test
+anion gap
+cryptococcal antigen latex agglutination test
+fluorescence bronchoscopy
+rigid bronchoscope
+forced vital capacity
+25% 肺活量的呼气流量 forced expiratory flow at 25% of FVC exhaled
+50% 肺活量的呼气流量 foreed expiratory flow at 50% of FVC exhaled
+50% 肺活量的呼气流量与吸气流量比值 forced expiratory flow to forced inspiratory flow at 50 percent vital capacity
+75% 肺活量的呼气流量 forced expiratory flow at 75% of FVC exhaled
+forced inspiratory vital capacity
+effort-dependent part
+effective compliance
+right atrial end-diastolic pressure
+right ventricular transmural pressure
+exercise load
+exercising provocation test
+cardiopulmonary exercise test
+diagnostic thoracentesis
+distilled water or hypertonic saline provocation test
+distilled water provocation test
+positron emission tomography
+bronchoalveolar lavage
+bronchoalveolar lavage fluid
+bronchoprovocation testing
+bronchoscopy
+spontaneous breathing test
+resistance-time diagram
+bronchodilation testing
+respiratory quotient of fat
+directly measured lung volume
+therapeutic thoracentesis
+central venous pressure
+central resistance
+total end expiratory pressure
+total respiratory frequency
+mediastinoscopy
+resistance-volume diagram
+resistant time
+maximal carbon dioxide output
+maximal carbon dioxide discharge
+peak cough expiratory flow
+maximal expiratory flow
+maximal expiratory flow-volume curve
+maximal expiratory pressure
+maximal transdiaphragmatic pressure
+maximal flow-volume curve
+maximal oxygen consumption per kg body weight
+maximum plateau pressure
+peak inspiratory flow
+- 容积曲线 maximal inspiratory flow-volume curve
+calculated value of maximal voluntary ventilation
+maximal inspiratory pressure
+maximal heart rate reserve
+maximal oxygen consumption
+maximal exercise ventilation
+maximal voluntary ventilation
+minimal plateau pressure
+left atrial end-diastolic pressure
+left ventricular transmural pressure
